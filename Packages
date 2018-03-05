@@ -1,0 +1,14 @@
+Package: com.mrmadtw.translucentmessages
+Version: 1.1
+Section: Tweaks
+Maintainer: AppleBeta <applebetas+bb@icloud.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.mrmadtw.translucentmessages_1.1_iphoneos-arm.deb
+Size: 146
+MD5sum: 94F260052769F488B7D93C7E8E89AF9F
+Description: available as a beta for all patrons! We've been working hard to make sure everything is perfect, and that the tweak looks better than ever before.
+Name: TranslucentMessages
+Author: AppleBeta
+Depiction: https://mrmadtw.github.io/repo/depictions/?p=com.mrmadtw.translucentmessages
+
