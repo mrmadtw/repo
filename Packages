@@ -3,10 +3,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Applebetas <applebetas+bb@icloud.com>
 Depends: mobilesubstrate
-Filename: /debs/com.mrmadtw.translucentmessages_1.1.deb
+Filename: ./debs/com.mrmadtw.translucentmessages_1.1.deb
 Section: Supports iOS 11
-Description: available as a beta for all patrons! We've been working hard to make sure everything is perfect, and that the tweak looks better than ever before.
 Author: Applebetas <applebetas+bb@icloud.com>
 Name: TranslucentMessages
-MD5sum: aa712bcd4266325ef5bec6dc1ee9c49a 149678
-
+Size: 149678
+MD5sum: aa712bcd4266325ef5bec6dc1ee9c49a
+SHA1: 711C1FA4DD72E494002E2D25CEA3D44FA85B67B8
+SHA256: 2C44EAE93B2BFDE28DF528AA44DB5C6DDFDCE2632B1DE9E0BFA60C12D299F0D1
