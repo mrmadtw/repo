@@ -1,4 +1,4 @@
-Origin: Mrmad
+Origin: Mrmad Repo
 
 Label: Mrmad
 
@@ -15,6 +15,6 @@ Components: main
 Description: Repository of Patrick Muff
 
 MD5Sum:
-32854bb87bb64af9d45140872b9d67d4 400 Packages
-0828dbed658df442d13a96437842ac6c 281 Packages.gz
-da54328f8957b60b75ab67d2645e1ae5 314 Packages.bz2
+9243ac33319a9d05371bca2f86dc0941 400 Packages
+2301fc7d2367caf29587600095244043 283 Packages.gz
+cf148ddcf83fb3027c9b5d090790b87f 310 Packages.bz2
