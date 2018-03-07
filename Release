@@ -1,6 +1,6 @@
 Origin: Mrmad Repo
 
-Label: Mrmad
+Label: Mrmad Repo
 
 Suite: stable
 
@@ -15,6 +15,6 @@ Components: main
 Description: Repository of Patrick Muff
 
 MD5Sum:
-9243ac33319a9d05371bca2f86dc0941 400 Packages
-2301fc7d2367caf29587600095244043 283 Packages.gz
-cf148ddcf83fb3027c9b5d090790b87f 310 Packages.bz2
+52daad3209333e308720ce4d2dd13400 400 Packages
+6bfa2c4db1baf18a0238df15cf1aae53 282 Packages.gz
+743343967d9f48e0a22a16c4d2ce1021 312 Packages.bz2
