@@ -6,7 +6,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.translucentmessages_1.1_iphoneos-arm.deb
 Size: 149332
-MD5sum: 1083acc7d053efd68c5bf66e5751b82c
+MD5sum: b5eb962ed71c71c59abdc3d2c742dd9b
 Description: simple blurry lockscreen
 Name: TranslucentMessages
 Author: AppleBetas

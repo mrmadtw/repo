@@ -1,6 +1,6 @@
-Origin: Mrmad Repo
+Origin: 瘋先生 Mrmad Repo
 
-Label: Mrmad Repo
+Label: 瘋先生 Mrmad Repo
 
 Suite: stable
 
@@ -12,9 +12,9 @@ Architectures: iphoneos-arm
 
 Components: main
 
-Description: Repository of Patrick Muff
+Description: 瘋先生軟體源
 
 MD5Sum:
-c9f67d21e28ce91f24f452a2794f766a 433 Packages
-fea5b63748774f9580ed3a5ab157e038 295 Packages.gz
-1c9cb427e7f624733c44c92c0ed17379 328 Packages.bz2
+9d043ad18ae4930d3da6c7fdf9ef85b8 433 Packages
+c756b74c033600e89a62511de6b4bf61 292 Packages.gz
+19899b06cefe9a25f22d5a0df522b2a8 322 Packages.bz2
