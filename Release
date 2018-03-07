@@ -1,11 +1,20 @@
-Origin: Mrmad Repo
-Label: Mrmad Repo
+Origin: Mrmad
+
+Label: Mrmad
+
 Suite: stable
-Version: 1.0
-Codename: ios
+
+Version: 0.1
+
+Codename: dslk
+
 Architectures: iphoneos-arm
+
 Components: main
-Description: Mrmad repo
+
+Description: Repository of Patrick Muff
+
 MD5Sum:
-C93AA83F678A716DE6581DFDE2108874 320 Packages
-87DF995A480BEA20C4528C18A964C649 376 Packages.bz2
+32854bb87bb64af9d45140872b9d67d4 400 Packages
+0828dbed658df442d13a96437842ac6c 281 Packages.gz
+da54328f8957b60b75ab67d2645e1ae5 314 Packages.bz2
