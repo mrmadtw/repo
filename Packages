@@ -1,3 +1,17 @@
+Package: com.mrmadtw.NotTodaySatan
+Version: 2.0-1
+Section: Tweaks
+Maintainer: zackh105
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: deb/com.mrmadtw.nottodaysatan_2.0-1_iphoneos-arm.deb
+Size: 3956
+MD5sum: d2c0b4812a0dcf57a9aac87befb78c1c
+Description: Prevents Telugu characters from crashing SpringBoard
+Name: NotTodaySatan
+Author: zackh105
+Depiction: https://mrmadtw.github.io/repo/depiction/NotTodaySatan/index.html
+
 Package: com.mrmadtw.translucentmessages
 Version: 1.1
 Section: Tweaks
@@ -6,7 +20,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.translucentmessages_1.1_iphoneos-arm.deb
 Size: 149340
-MD5sum: 566df6a8d0a219fcb383bab127650c32
+MD5sum: 8eb2428f7d79df0b3ac38f72458f3159
 Description: Adds a stunning new look to your messages.
 Name: TranslucentMessages
 Author: AppleBetas
