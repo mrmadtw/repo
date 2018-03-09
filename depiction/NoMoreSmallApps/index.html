@@ -38,36 +38,12 @@
     <script src="../src/toastr.min.js"></script>
     <script src="../src/dropzone.js"></script>
     <script src="../src/summernote.min.js"></script>
-    <script src="../src/ios_version_check.js"></script>	
-    
 
 		<link rel="stylesheet" href="../src/scroll.min.css">
 		<script src="../src/fastclick.js" type="text/javascript"></script>
 		<script src="../src/menes.js" type="text/javascript"></script>
 		<script src="../src/cytyle.js" type="text/javascript"></script>
 		<script src="../src/jquery.min.js"></script>
-		
-		<script type="text/javascript">
-				bundleid = $.QueryString['p'];
-    var contentBlocks = 	{
-"#compatibilityCheck" :
-			{"type":"custom"
-				,"source":"package>compatibility>firmware"
-				,"render":function(element,source){
-					var res = ios_version_check(
-						$(source).find("miniOS").text(),
-						$(source).find("maxiOS").text(),
-						$(source).find("otherVersions").text(),
-						function(message,isBad) {
-							$(element).html(message)
-							.addClass( (isBad?'alert-danger':'alert-success'));
-						}
-					);
-					if(res==0) {$(element).hide()}
-				}
-			}
-	    
-		
 	</head>
 	<body class="pinstripe">
 		<panel>
@@ -85,8 +61,7 @@
 			</fieldset>
 
 			<div id="header" style="display: none;">
-				<div id="compatibilityCheck" class="alert"></div> 
-				<img class="icon" src="../src/TweakIcon.png" style="width: 64px; height: 64px; vertical-align: top;" />
+				<img class="icon" src="Screenshots/TweakIcon.png" style="width: 64px; height: 64px; vertical-align: top;" />
 				<div id="content">
 					<p id="name">NoMoreSmallApps</p>
 					<p id="latest">0.0.1-5+debug</p>
