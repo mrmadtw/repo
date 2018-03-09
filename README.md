@@ -3,10 +3,8 @@ Welcome to my Cydia Repo.
 
 &nbsp;
 
-Email - patilkiran08@gmail.com
+Email - mrmadtw@gmail.com
 
-Reddit - [/u/imkpatil](https://www.reddit.com/user/imkpatil/)
+網站首頁 - https://mrmad.com.tw
 
-Twitter - [@imkpatil](https://twitter.com/imkpatil)
-
-Paypal - [Donate](https://paypal.me/patilkiran08/5)
+Twitter - [@mrmadtw](https://twitter.com/mrmadtw)
