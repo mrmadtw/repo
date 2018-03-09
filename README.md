@@ -11,7 +11,7 @@
 
 ## 增加本站的軟體源方法
 
-方法1. 手動加入軟體源
+### 方法1. 手動加入軟體源
 
 ▼ 打開Cydia並且選擇「來源」，右上角點選「編輯」>「加入」
 
@@ -21,7 +21,7 @@
 
 ![img3](https://i.imgur.com/D7bCnru.png)
 
-方法2. 點網址直接加入
+### 方法2. 點網址直接加入
 
 開啟「[此網址](https://mrmadtw.github.io/repo/)」，點擊 「Add in Cydia 」>「打開」，會轉跳至 Cydia 並直接點擊「Install the Source」來安裝新增軟體源。
 
