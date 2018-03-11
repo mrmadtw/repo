@@ -1,4 +1,4 @@
-Origin: Mrmad's Repo
+Origin: 瘋先生 Mrmad's Repo
 Label: mrmad
 Suite: stable
 Version: 1.0
@@ -7,6 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: 瘋先生軟體源
 MD5Sum:
-0964c8be48740649ea0048f7e94bc6cc 9639 Packages
-b16ca4a9907a2f6a3a598db467d1be88 2680 Packages.gz
-b92796e43fbf7215eaaf87245ba6d72f 2811 Packages.bz2
+22b0f359452ca018a0a5497be3434064 9639 Packages
+4466dd629869921234ef191333568892 2679 Packages.gz
+bd16d8c1ca9dcce815af2828fbf700ee 2819 Packages.bz2

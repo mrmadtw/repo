@@ -6,7 +6,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.nottodaysatan_2.0-1_iphoneos-arm.deb
 Size: 3956
-MD5sum: 43db60f162b10814823434c16792a5de
+MD5sum: 2d536b77c5a7eabe425bf39b2e304d28
 Description: Prevents Telugu characters from crashing SpringBoard
 Name: NotTodaySatan
 Author: zackh105
@@ -19,7 +19,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.ccmusicartwork_0.0.5k_iphoneos-arm.deb
 Size: 9166
-MD5sum: f7fd4cfd5ca42c2e2c86f9074bb3eb81
+MD5sum: c60656ae56788747de8fb0b158d805e9
 Description: Shows album artwork behind the music module in the iOS 11 control center
 Name: CCMusicArtwork
 Author: Spark
@@ -32,7 +32,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.conditionalwifi3_1.0.0_iphoneos-arm.deb
 Size: 8912
-MD5sum: 6aec13c6d88a78e92c5d9b0a1bfda85c
+MD5sum: 89c2093dccb5bd06a4674b09c0f5f175
 Description: Restrict certain apps from accessing wifi on iOS 11
 Name: ConditionalWiFi3
 Author: iOS Creatix
@@ -45,7 +45,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.darkkeyboard_0.0.1-2_iphoneos-arm.deb
 Size: 3164
-MD5sum: 8a947d97cd91cff052fe4272ebbd25df
+MD5sum: 2209c9c3006a31e706586a141e8e630d
 Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Name: Darkkeyboard
 Author: chloek
@@ -58,7 +58,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.doubletaplock_0.0.1-18_iphoneos-arm.deb
 Size: 54666
-MD5sum: dfe57bee3c0ae7a8c882a55a5b9e321d
+MD5sum: 0194db39f3a37ef4d23f4938461ab8bd
 Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Name: DoubleTapLock
 Author: Spark
@@ -72,7 +72,7 @@ Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.filza_3.4.0-25_iphoneos-arm.deb
 Size: 9380402
-MD5sum: 4540c255a383a2b5964685f28fbbb693
+MD5sum: 20621dff0a06fce019c739d2a49d563a
 Description: Filza 支援iOS11越獄 Electra
 Name: Filza for Electra(iOS11)
 Author: TIGI Software
@@ -99,7 +99,7 @@ Conflicts: kuaidial-beta
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.KuaiDial_iphoneos-arm.deb
 Size: 582568
-MD5sum: 52e1759237175160260d4c0bbc5d0a78
+MD5sum: 415efabc0863462aab2054a0fe514e26
 Description: 作者最新iOS9測試版本(iOS11也可支援)
 Name: KuaiDial
 Author: linspike
@@ -112,7 +112,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.latchkey_0.2_iphoneos-arm.deb
 Size: 323760
-MD5sum: 4d6664511612425a6897a1517a680f84
+MD5sum: d2ad9f1abc3fdc4082641693162e0e5e
 Description: If anyone has any issues with the tweak let me know in the comments. I've only tested it on an iPhone X 11.1.2
 Name: LatchKey
 Author: LatchKey
@@ -125,7 +125,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.linenodetect_0.5.1_iphoneos-arm.deb
 Size: 13986
-MD5sum: 43c52e730d4bf1978361cb11797d9c8c
+MD5sum: 64cacfdf9d511b12c3f3a83b69f63a19
 Description: Bypass jailbreak detection all and LINE apps. very nice.
 Name: line no detect
 Author: Hiraku
@@ -139,7 +139,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.littlex_1.3.4_iphoneos-arm.deb
 Size: 26694
-MD5sum: a3650fde469b85bc861d81e0eb5476db
+MD5sum: 955dd0812b7973466dc863df0e853d30
 Description: Add features of iPhone X to all legacy devices that do not support iOS 11 ‬
 Name: LittleX
 Author: Andywiik
@@ -152,7 +152,7 @@ Depends: firmware (>= 9.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.manila_1.0.0-1_iphoneos-arm.deb
 Size: 14640
-MD5sum: 0cd21c6ce76f9600aba6b294cd98ff5e
+MD5sum: 3f49220f0a165683743e5f71739376c6
 Description: Your folders are too plain.Your folders are too plain.Your folders are too plain
 Name: Manila
 Author: David Goldman
@@ -165,7 +165,7 @@ Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.noctisxl_1.0.5.1_iphoneos-arm.deb
 Size: 78782
-MD5sum: 4e4deb7f383798d6bbbc957ac0893dc6
+MD5sum: 8fe7815b6107060f2c07c0880633518b
 Description: اNoctisXI is a system dark mode for iOS 11
 Name: NoctisXl
 Author: LaughingQuoll
@@ -179,7 +179,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.nomoresmallapps_iphoneos-arm.deb
 Size: 2968
-MD5sum: 1156e2af7c0471199466de8466b32a84
+MD5sum: 004b99b58d2ecca24f07ab4759f50762
 Description: An awesome MobileSubstrate tweak!讓所有App支援iPhone X解析度
 Name: NoMoreSmallApps
 Author: Spark
@@ -192,7 +192,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.notchless_0.0.1-18_iphoneos-arm.deb
 Size: 7558
-MD5sum: 41123efdfb49e68700aa4d4bdc07450a
+MD5sum: 50c48b1db61025ad9cafabb611ed28dd
 Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Name: Notchless
 Author: Spark
@@ -205,7 +205,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.realcc_0.0.4-1_iphoneos-arm.deb
 Size: 2772
-MD5sum: 7a645be664802973ad18b9dfb7816911
+MD5sum: 359aebb81bbc870a1d0f1bd113ce39b9
 Description: Close Wi-Fi and Bluetooth from the control center without having to enter the settings for the release 11
 Name: RealCC
 Author: System Administrator
@@ -218,7 +218,7 @@ Depends: mobilesubstrate,  preferenceloader
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.recallpatch_1.0-3_iphoneos-arm.deb
 Size: 69340
-MD5sum: e635ec0fc8dd8c329882414640ad0b75
+MD5sum: ec4b2b978317f2e0a7c30fbb3422dd85
 Description: 防止QQ跟微信消息能夠測回，可運用在iOS11版本上.防止QQ跟微信消息能夠測回，可運用在iOS11版本上.
 Name: RecallPatch
 Author: ABCydia
@@ -231,7 +231,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.rooster_1.0.0_iphoneos-arm.deb
 Size: 3428
-MD5sum: 47829adbd45c0d710ca082bb3681ab26
+MD5sum: f4ca3a47b666aeb769d7cf92b0f1da7d
 Description: Disable an Application's Notifications with a 3D Touch Shortcut Action.
 Name: Rooster
 Author: iOS Creatix
@@ -244,7 +244,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.swipeuplockx_1.0_iphoneos-arm.deb
 Size: 3054
-MD5sum: b574e694905d462a3437325f36e1a575
+MD5sum: 34d7046c27462d558baa1c56570a9b33
 Description: ‫‬‪Pull the screen from the bottom up to close the iPhone (go to the lock screen) instead of the lock button‬‪Works only in the home screen‬
 Name: SwipeUpLockX
 Author: Aksapektro
@@ -257,7 +257,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.taptickeys_0.0.1-5_iphoneos-arm.deb
 Size: 187730
-MD5sum: 3b2a33d85234413cf557364461f98362
+MD5sum: e82b1ff41d1b09c940f9dff1413b5931
 Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Name: TapticKeys
 Author: Spark
@@ -271,7 +271,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.translucentmessages_1.1_iphoneos-arm.deb
 Size: 149340
-MD5sum: c248860a9288f5c41235fb8221a8f55d
+MD5sum: 7cf5362d3147838471b2f83f23b876b6
 Description: Adds a stunning new look to your messages.
 Name: TranslucentMessages
 Author: AppleBetas
@@ -284,7 +284,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: deb/com.mrmadtw.xbarremover_1.0_iphoneos-arm.deb
 Size: 2816
-MD5sum: 34ccbb78e2ea1e1f5dfd5fa9e6a68902
+MD5sum: 7109bb720316b4e98ab9137d094f862e
 Description: Hide the spam strip at the bottom of the screen on iPhone X
 Name: XBarRemover
 Author: Spark
