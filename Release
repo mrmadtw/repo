@@ -1,20 +1,12 @@
-Origin: 瘋先生 Mrmad Repo
-
-Label: 瘋先生 Mrmad Repo
-
+Origin: Mrmad's Repo
+Label: Mrmad's Repo
 Suite: stable
-
-Version: 0.1
-
-Codename: dslk
-
+Version: 1.0
+Codename: ios
 Architectures: iphoneos-arm
-
 Components: main
-
 Description: 瘋先生軟體源
-
 MD5Sum:
-75e8f5ba59267a936a8b3ecdd5d2c10e 9573 Packages
-b669a66bdb6954859bd1e24a12c61c64 2678 Packages.gz
-09e1442e9ee720a4860c162deb98e19e 2806 Packages.bz2
+32bcf9e641d3e11c9c737f50a72269c3 9639 Packages
+53c6bb13195190e40f3568451bd3c973 2681 Packages.gz
+4305004a49728063cf8e63bb8ed48c3b 2819 Packages.bz2
