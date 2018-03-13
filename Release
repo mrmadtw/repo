@@ -1,8 +1,8 @@
-Origin: 瘋先生 Mrmad's Repo
-Label: 瘋先生 Mrmad's Repo
+Origin: Mrmad
+Label: Mrmad
 Suite: stable
 Version: 1.0
-Codename: Mrmad
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: 瘋先生軟體源
