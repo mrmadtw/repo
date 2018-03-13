@@ -97,6 +97,20 @@ Name: Filza for Electra(iOS11)
 Author: TIGI Software <satashi2009@gmail.com>
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 
+Package: com.mrmadtw.ezlocation
+Version: 0.0.5
+Section: Tweaks
+Maintainer: Chilaxan and M4cs
+Pre-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.ioscreatix.silo
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.ezlocation_0.0.5_iphoneos-arm.deb
+Size: 10020
+MD5sum: 7176aa84fcfefc1f8b3e3c34fec32e3a
+Description: A toggle to turn Location Services on or off from your control center.
+Name: EzLocation
+Author: Chilaxan and M4cs
+
 Package: com.mrmadtw.ezrespring
 Version: 1.2-debug3
 Section: Tweaks
@@ -110,6 +124,20 @@ MD5sum: 9a38bc1d3fa47577a251674d3ec4ff84
 Description: A Respring button for your Control Center. Uses Silo to Run
 Name: EzRespring
 Author: M4cs <maxlikescs@gmail.com>
+
+Package: com.mrmadtw.ezsafemode
+Version: 0.0.3
+Section: Tweaks
+Maintainer: M4cs
+Pre-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.ioscreatix.silo
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.ezsafemode_0.0.3_iphoneos-arm.deb
+Size: 9644
+MD5sum: 78c5fd2e129fd552dbd0f77eda3f208d
+Description: A Safemode toggle for your Control Center. Requires Silo
+Name: EzSafemode
+Author: M4cs
 
 Package: com.mrmadtw.intelix
 Version: 1.1.4b
