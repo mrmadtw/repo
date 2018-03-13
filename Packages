@@ -87,15 +87,14 @@ Version: 3.4.2
 Priority: optional
 Section: Utilities
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip, mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.filza_3.4.2_iphoneos-arm.deb
-Size: 10635570
-MD5sum: ed3929147e645e97498e0d52f0b57b2f
+Size: 10635544
+MD5sum: 500e96ab21cb0c90655d0605c8c45e6a
 Description: File Manager for iOS. Supports iOS 7+
 Name: Filza for Electra(iOS11)
 Author: TIGI Software <satashi2009@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=filzafilemanagerDp
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 
 Package: com.mrmadtw.ezrespring
