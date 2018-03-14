@@ -273,8 +273,8 @@ Maintainer: Jeffrey Chan
 Depends: mobilesubstrate, firmware (>= 11.0)
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.pikabu_1.0.0_iphoneos-arm.deb
-Size: 215398
-MD5sum: 0f2fd7c7d8fbab4812730e76fe8aaa43
+Size: 215410
+MD5sum: 1b9b58d246cb0146aca2c0bab3c4bfd1
 Description: pikabu 試用版本
 Name: Pikabu
 Author: Jeffrey Chan
