@@ -99,7 +99,7 @@ Icon: file:///Applications/Filza.app/AppIcon57x57.png
 
 Package: com.mrmadtw.ezcc
 Version: 0.0.2
-Section: Control Center
+Section: Tweaks
 Maintainer: macs@m4cs.xyz
 Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Conflicts: 
@@ -107,7 +107,7 @@ Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-cent
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.ezcc_0.0.2_iphoneos-arm.deb
 Size: 40096
-MD5sum: ff2161b57a853de00c2cdfbad60dc1de
+MD5sum: 04962ddb2450c30adf7af2f1b987dad9
 Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
 Name: EzCC
 Author: M4cs, Simalary, Chiaxan, MidnightChips
