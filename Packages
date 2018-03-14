@@ -226,6 +226,20 @@ Name: LittleX
 Author: Andywiik
 Depiction: https://mrmadtw.github.io/repo/depiction/littlex/index.html
 
+Package: com.mrmadtw.makecydiabuyagain
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: Jake Ihasz
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.makecydiabuyagain_1.0-1+debug_iphoneos-arm.deb
+Size: 3922
+MD5sum: d463404415233d52f87cc74ff89bc97a
+Description: Enable Cydia to purchase any package on iOS 11+
+Name: MakeCydiaBuyAgain
+Author: Jake Ihasz
+Depiction: https://mrmadtw.github.io/repo/depiction/makecydiabuyagain/index.html
+
 Package: com.mrmadtw.manila
 Version: 1.0.2-1
 Section: Tweaks
