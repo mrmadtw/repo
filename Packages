@@ -97,6 +97,22 @@ Name: Filza for Electra(iOS11)
 Author: TIGI Software <satashi2009@gmail.com>
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 
+Package: com.mrmadtw.ezcc
+Version: 0.0.2
+Section: Control Center
+Maintainer: macs@m4cs.xyz
+Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
+Conflicts: 
+Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-center.ezrespring, com.ezccmodules.control-center.ezsafemodemodule, com.exccmodules.control-center.ezuicache
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.ezcc_0.0.2_iphoneos-arm.deb
+Size: 40096
+MD5sum: ff2161b57a853de00c2cdfbad60dc1de
+Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
+Name: EzCC
+Author: M4cs, Simalary, Chiaxan, MidnightChips
+Depiction: https://mrmadtw.github.io/repo/depiction/ezcc/index.html
+
 Package: com.mrmadtw.ezlocation
 Version: 0.0.5
 Section: Tweaks
