@@ -338,6 +338,20 @@ Name: Rooster
 Author: iOS Creatix
 Depiction: https://mrmadtw.github.io/repo/depiction/rooster/index.html
 
+Package: com.mrmadtw.semperon
+Version: 1.2
+Section: Tweaks
+Maintainer: LaughingQuoll
+Depends: mobilesubstrate ,firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.semperon_1.2_iphoneos-arm.deb
+Size: 11224
+MD5sum: 4425798f8164da85b7db378e63bedd51
+Description: Always On Display
+Name: Semperon
+Author: LaughingQuoll
+Depiction: https://mrmadtw.github.io/repo/depiction/semperon/index.html
+
 Package: com.mrmadtw.swiper
 Version: 1.0
 Section: Tweaks
