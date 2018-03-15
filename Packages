@@ -342,11 +342,11 @@ Package: com.mrmadtw.swiper
 Version: 1.0
 Section: Tweaks
 Maintainer: ArtikusHG
-Depends: mobilesubstrate, firmware (>= 10.0)
+Depends: firmware (>=11.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.swiper_1.0_iphoneos-arm.deb
-Size: 14798
-MD5sum: 6bac679fe2e79a2bbdc89ef214569e60
+Size: 14790
+MD5sum: 53b82736043ef6868033f9181c074699
 Description: iPhone X LS for iOS 10
 Name: Swiper
 Author: ArtikusHG
