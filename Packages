@@ -254,6 +254,20 @@ Name: Manila
 Author: David Goldman
 Depiction: https://mrmadtw.github.io/repo/depiction/manila/index.html
 
+Package: com.mrmadtw.mariomaps
+Version: 1.1
+Section: Tweaks
+Maintainer: FivePixels
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.mariomaps_1.1_iphoneos-arm.deb
+Size: 1792
+MD5sum: 5d6c6d3544bd247c68cd8933f2f0cb9c
+Description: 作者源備份版.Make your pointer icon Mario on a MarioKart, with sound effects! Let’s-A Go! This tweak works on Google Maps v4.46.12. Credit to Soh Satoh for the Flex 3 Patch this tweak is based off of.
+Name: MarioMaps (for Google Maps)
+Author: FivePixels
+Depiction: https://mrmadtw.github.io/repo/depiction/mariomaps/index.html
+
 Package: com.mrmadtw.noctisxl
 Version: 1.0.5.1
 Section: Tweaks
