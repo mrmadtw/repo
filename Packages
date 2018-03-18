@@ -466,6 +466,22 @@ Author: Spark
 Depiction: https://mrmadtw.github.io/repo/depiction/xbarremover/index.html
 
 Package: com.mrmadtw.xcon
+Version: 42~beta4
+Section: Tweaks
+Maintainer: Lunatik
+Depends: mobilesubstrate ,firmware (<< 11.0)
+Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
+Architecture: iphoneos-arm
+Filename: ./uncompiled-packages/com.mrmadtw.xcon_42~beta4_iphoneos-arm.deb
+Size: 65128
+MD5sum: 8ceed569efb4ec29ad18ac7a106df403
+Description: 僅支援iOS11以下.bypass anti-jailbreak protectionn
+Name: xCon
+Author: Lunatik
+Depiction: https://mrmadtw.github.io/repo/depiction/xcon/index.html
+
+Package: com.mrmadtw.xcon
 Version: 42~beta2
 Section: Tweaks
 Maintainer: Lunatik
