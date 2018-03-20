@@ -325,6 +325,33 @@ Name: Notchless
 Author: Spark
 Depiction: https://mrmadtw.github.io/repo/depiction/notchless/index.html
 
+Package: com.mrmadtw.percentagebatteryx
+Version: 1.0.2
+Section: Tweaks
+Maintainer: NeinZedd9
+Depends: mobilesubstrate, firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.percentagebatteryx_1.0.2_iphoneos-arm.deb
+Size: 4870
+MD5sum: 636be43cd59c60041b44680d8aa7d77f
+Description: Adds the percentage inside of the battery on iPhone X.
+Name: PercentageBatteryX
+Author: NeinZedd9
+
+Package: com.mrmadtw.percentagecirclex
+Version: 1.0.1
+Section: Tweaks
+Maintainer: NeinZedd9
+Depends: mobilesubstrate, firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.percentagecirclex_1.0.1_iphoneos-arm.deb
+Size: 5332
+MD5sum: ef3b36c0fce0446bd3af88d7e2bb9e8e
+Description: Adds the percentage inside of a circle on iPhone X.
+Name: PercentageCircleX
+Author: NeinZedd9
+Depiction: https://mrmadtw.github.io/repo/depiction/percentagecirclex/index.html
+
 Package: com.mrmadtw.realcc
 Version: 0.0.4-1
 Section: Tweaks
@@ -473,7 +500,7 @@ Depends: mobilesubstrate ,firmware (<< 11.0)
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Architecture: iphoneos-arm
-Filename: ./uncompiled-packages/com.mrmadtw.xcon_42~beta4_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.xcon_42~beta4_iphoneos-arm.deb
 Size: 65128
 MD5sum: 8ceed569efb4ec29ad18ac7a106df403
 Description: 僅支援iOS11以下.bypass anti-jailbreak protectionn
