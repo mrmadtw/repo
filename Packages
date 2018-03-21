@@ -26,6 +26,20 @@ Name: CcmusicArtwork
 Author: Spark
 Depiction: https://mrmadtw.github.io/repo/depiction/ccmusicartwork/index.html
 
+Package: com.mrmadtw.cocoatop64
+Version: 2.0.2
+Section: Tweaks
+Maintainer: Domo
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.cocoatop64_2.0.2_iphoneos-arm.deb
+Size: 118972
+MD5sum: bf3d687c8984d0ea145feefe09e43ac6
+Description: Process Viewer for iOS GUI (64-bit)
+Name: CocoaTop
+Author: Domo
+Depiction: https://mrmadtw.github.io/repo/depiction/cocoatop64/index.html
+
 Package: com.mrmadtw.conditionalwifi3
 Version: 1.0.0
 Section: Tweaks
