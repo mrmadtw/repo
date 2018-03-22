@@ -184,6 +184,20 @@ Description: A Safemode toggle for your Control Center. Requires Silo
 Name: EzSafemode
 Author: M4cs
 
+Package: com.mrmadtw.fortnitestealth
+Version: 1.0
+Section: Tweaks
+Maintainer: foogauzie <foogauzie@protonmail.ch>
+Depends: mobilesubstrate ,firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.fortnitestealth2_1.0_iphoneos-arm.deb
+Size: 2076
+MD5sum: 0f88872f1f8546660eea2304834a2f73
+Description: FortniteStealth bypasses Fortnite's jailbreak detection.
+Name: FortniteStealth2 (下載殼)
+Author: foogauzie <foogauzie@protonmail.ch>
+Depiction: https://mrmadtw.github.io/repo/depiction/fortnitestealth/index.html
+
 Package: com.mrmadtw.intelix
 Version: 1.1.4b
 Section: Tweaks
