@@ -12,6 +12,20 @@ Name: NotTodaySatan
 Author: zackh105
 Depiction: https://mrmadtw.github.io/repo/depiction/NotTodaySatan/index.html
 
+Package: com.mrmadtw.bolders
+Version: 0.0.4-2
+Section: Tweaks
+Maintainer: candoizo <andreasmgott@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.bolders_0.0.4-2_iphoneos-arm.deb
+Size: 14744
+MD5sum: a878f39477a5ba36df79332f9bfc2bfc
+Description: Compatible with iOS 8, 9 ,10 and 11. No options to configure  Bolders ~ bigger bolder folders!  Bolders revamps the current iOS 10 folders with a fresh & clean style that takes up the entire screen. Columns & rows are determined by your device size to ensure consistently clean results.
+Name: Bolders
+Author: candoizo <andreasmgott@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/bolders/index.html
+
 Package: com.mrmadtw.ccmusicartwork
 Version: 0.0.5k
 Section: Tweaks
