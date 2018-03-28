@@ -422,6 +422,20 @@ Name: Rooster
 Author: iOS Creatix
 Depiction: https://mrmadtw.github.io/repo/depiction/rooster/index.html
 
+Package: com.mrmadtw.screenrecorderforcedaudio
+Version: 1.0-3
+Section: Tweaks
+Maintainer: Kiran Patil
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
+Size: 22214
+MD5sum: 19eff7a98aa8ba8deed556a7c25314cd
+Description: This tweak will force the phone audio to be recorded even when the micophone is turned ON.
+Name: ScreenRecorderForcedAudio
+Author: Kiran Patil
+Depiction: https://mrmadtw.github.io/repo/depiction/screenrecorderforcedaudio/index.html
+
 Package: com.mrmadtw.semperon
 Version: 1.2
 Section: Tweaks
