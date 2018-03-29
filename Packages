@@ -68,6 +68,20 @@ Name: Darkkeyboard
 Author: chloek
 Depiction: https://mrmadtw.github.io/repo/depiction/darkkeyboard/index.html
 
+Package: com.mrmadtw.dateundertimex
+Version: 1.0.0
+Section: Tweaks
+Maintainer: NeinZedd9
+Depends: mobilesubstrate, firmware (>= 11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.dateundertimex_1.0.0_iphoneos-arm.deb
+Size: 3620
+MD5sum: d223eba32de035d32aa6e6c390c7fb3c
+Description: Size 12
+Name: DateUnderTimeX
+Author: NeinZedd9
+Depiction: https://mrmadtw.github.io/repo/depiction/dateundertimex/index.html
+
 Package: com.mrmadtw.doubletaplock
 Version: 0.0.1-18+debug
 Section: Tweaks
@@ -379,6 +393,20 @@ Description: Adds the percentage inside of a circle on iPhone X.
 Name: PercentageCircleX
 Author: NeinZedd9
 Depiction: https://mrmadtw.github.io/repo/depiction/percentagecirclex/index.html
+
+Package: com.mrmadtw.pikabulite
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.pikabulite_1.1.0_iphoneos-arm.deb
+Size: 212086
+MD5sum: 2d0227d502a883c02851f26350d2b693
+Description: Lite
+Name: Pikabu Lite
+Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/pikabulite/index.html
 
 Package: com.mrmadtw.realcc
 Version: 0.0.4-1
