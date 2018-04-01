@@ -198,6 +198,20 @@ Description: A Safemode toggle for your Control Center. Requires Silo
 Name: EzSafemode
 Author: M4cs
 
+Package: com.mrmadtw.floatingdockxi
+Version: 0.0.1-10+debug
+Section: Tweaks
+Maintainer: XCXiao
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.floatingdockxi_0.0.1-10+debug_iphoneos-arm.deb.deb
+Size: 4938
+MD5sum: fb4fe8606daff783481c77bf77f4fb24
+Description: An awesome MobileSubstrate tweak!
+Name: FloatingDockXI
+Author: XCXiao
+Depiction: https://mrmadtw.github.io/repo/depiction/floatingdockxi/index.html
+
 Package: com.mrmadtw.fortnitestealth
 Version: 1.0
 Section: Tweaks
