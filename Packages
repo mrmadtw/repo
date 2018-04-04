@@ -230,11 +230,11 @@ Package: com.mrmadtw.homegesture
 Version: 1.3
 Section: Tweaks
 Maintainer: VitaTaf
-Depends: mobilesubstrate
+Depends: mobilesubstrate ,firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.HomeGesture_1.3_iphoneos-arm.deb
-Size: 4022
-MD5sum: 0b45b06bf05ee60ff6d616bb219e4ded
+Size: 4036
+MD5sum: 375aba8e4d1b8228cbdddcf3343936fb
 Description: 非iPhone X設備實現手勢
 Name: HomeGesture
 Author: VitaTaf
