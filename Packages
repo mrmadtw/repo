@@ -471,8 +471,8 @@ Maintainer: Ryan
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.safaripluscht_1.4.4_iphoneos-arm.deb
-Size: 5916
-MD5sum: d24d1465b386e41163735f647678af69
+Size: 5870
+MD5sum: 47ade9006a959d5bdf83b5c39d7f09e5
 Description: Safari Plus 繁體中文化，安裝前請先安裝好 Safari Plus
 Name: Safari Plus 繁體中文化
 Author: Ryan
