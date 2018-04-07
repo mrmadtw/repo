@@ -1,3 +1,17 @@
+Package: com.mrmadtw.KillBackground11cht
+Version: 0.0.1-2-beta
+Section: Tweaks
+Maintainer: Mrmad
+Depends: mobilesubstrate ,firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.KillBackground11cht_0.0.1-2-beta_iphoneos-arm.deb
+Size: 2126
+MD5sum: c90574ebe4265ecd11bad1da0330beca
+Description: KillBackground11 繁體中文化安裝前請先安裝好 KillBackground11
+Name: KillBackground11 繁體中文化
+Author: Mrmad
+Depiction: https://mrmadtw.github.io/repo/depiction/KillBackground11cht/index.html
+
 Package: com.mrmadtw.NotTodaySatan
 Version: 2.0-1
 Section: Tweaks
