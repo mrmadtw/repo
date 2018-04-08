@@ -26,6 +26,20 @@ Name: NotTodaySatan
 Author: zackh105
 Depiction: https://mrmadtw.github.io/repo/depiction/NotTodaySatan/index.html
 
+Package: com.mrmadtw.callblockercht
+Version: 1.0
+Section: Tweaks
+Maintainer: Mrmad
+Depends: mobilesubstrate ,firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.callblockercht_1.0_iphoneos-arm.deb
+Size: 1924
+MD5sum: 6f616041241c0d07cabdc20ccb4c5e98
+Description: 安裝前請先安裝好 CallBlocker
+Name: CallBlocker 繁體中文化
+Author: Mrmad
+Depiction: https://mrmadtw.github.io/repo/depiction/callblockercht/index.html
+
 Package: com.mrmadtw.ccmusicartwork
 Version: 0.0.5k
 Section: Tweaks
