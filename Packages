@@ -61,8 +61,8 @@ Maintainer: Mrmad <mrmad.com.tw>
 Depends: firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.cercubecht_4.2.2.3_iphoneos-arm.deb
-Size: 4196
-MD5sum: ced2b5ac973f22d170c33fec98b41c6b
+Size: 4032
+MD5sum: c3250c0622b34ad84a6a391b9c2c932e
 Description: 安裝前請先安裝 Cercube
 Name: Cercube 繁體中文化
 Author: Mrmad <mrmad.com.tw>
@@ -487,7 +487,7 @@ Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.pikabulite_1.1.0_iphoneos-arm.deb
 Size: 212086
-MD5sum: 2d0227d502a883c02851f26350d2b693
+MD5sum: 7d4ec20e8bf382793da873a9d8c23703
 Description: Lite
 Name: Pikabu Lite
 Author: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
