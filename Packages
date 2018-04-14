@@ -168,6 +168,21 @@ Author: TIGI Software <satashi2009@gmail.com>
 Icon: file:///Applications/Filza.app/AppIcon57x57.png
 
 Package: com.mrmadtw.ezcc
+Version: 1.1-4
+Section: Tweaks
+Maintainer: Mrmad
+Depends: mobilesubstrate, com.ioscreatix.silo
+Conflicts: com.m4cs.control-center.ezreboot, com.m4cs-dev.simalary.control-center.ezsecretsettings, com.clarke1234.ezcydiaopener
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.ezcc_1.1-4_iphoneos-arm.deb
+Size: 121900
+MD5sum: 4bdb1a687d85de1a1ff4d972dd98a570
+Description: Complete Package for EzCC. Will be adding toggles to this packages only form now on!
+Name: EzCC
+Author: M4cs, Simalary, Chilaxan, MidnightChips, Clarke1234, 5px
+Depiction: https://mrmadtw.github.io/repo/depiction/ezcc/index.html
+
+Package: com.mrmadtw.ezcc
 Version: 0.0.2
 Section: Tweaks
 Maintainer: macs@m4cs.xyz
