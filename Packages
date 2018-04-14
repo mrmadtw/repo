@@ -261,9 +261,9 @@ Section: Tweaks
 Maintainer: XCXiao
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./deb/com.mrmadtw.floatingdockxi_0.0.1-10+debug_iphoneos-arm.deb.deb
+Filename: ./deb/com.mrmadtw.floatingdockxi_0.0.1-10+debug_iphoneos-arm.deb
 Size: 4938
-MD5sum: fb4fe8606daff783481c77bf77f4fb24
+MD5sum: 1afbc3cad8ca55f3b755673d0c887910
 Description: An awesome MobileSubstrate tweak!
 Name: FloatingDockXI
 Author: XCXiao
