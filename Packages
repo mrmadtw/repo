@@ -262,8 +262,8 @@ Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.fdotscht_1.0.0-4_iphoneos-arm.deb
-Size: 1312
-MD5sum: 78295509f894bf4fc76c9c95a8e75c0a
+Size: 1316
+MD5sum: 372d2bc2877fbcbd50c89be907047722
 Description: 安裝前請先安裝好 FDots
 Name: FDots 繁體中文化
 Author: Mrmad <mrmadtw@gmail.com>
