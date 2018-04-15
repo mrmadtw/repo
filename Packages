@@ -269,6 +269,20 @@ Name: FDots 繁體中文化
 Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/fdotscht/index.html
 
+Package: com.mrmadtw.fdotscht
+Version: 1.0.0-4
+Section: Tweaks
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate ,firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.fdotscht_1.0.0-4-1_iphoneos-arm.deb
+Size: 1316
+MD5sum: e73a3d3dc1da4749cfacd62827936b2b
+Description: 安裝前請先安裝好 FDots
+Name: FDots 繁體中文化
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/fdotscht/index.html
+
 Package: com.mrmadtw.floatingdockxi
 Version: 0.0.1-10+debug
 Section: Tweaks
