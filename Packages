@@ -438,6 +438,20 @@ Name: MarioMaps (for Google Maps)
 Author: FivePixels
 Depiction: https://mrmadtw.github.io/repo/depiction/mariomaps/index.html
 
+Package: com.mrmadtw.morepoweroptions
+Version: 1.3
+Section: Tweaks
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate ,firmware (>=9.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.morepoweroptions_1.3_iphoneos-arm.deb
+Size: 17838
+MD5sum: 2506312b07cfac065d5e2ed996926bf7
+Description: New power menu design. Adds more options.
+Name: MorePowerOptions
+Author: Seiterseiter
+Depiction: https://mrmadtw.github.io/repo/depiction/morepoweroptions/index.html
+
 Package: com.mrmadtw.noctisxl
 Version: 1.0.5.1
 Section: Tweaks
