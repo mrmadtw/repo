@@ -1,3 +1,16 @@
+Package: com.mrmadtw.AlegreyaSans
+Version: 1.1
+Section: Fonts
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.AlegreyaSans_1.1_iphoneos-arm.deb
+Size: 4914696
+MD5sum: d4c939a2076e84ed31545224184251fd
+Description: Anemone 專用英文字體
+Name: Alegreya Sans Font for Anemone
+Author: Mrmad <mrmadtw@gmail.com>
+
 Package: com.mrmadtw.KillBackground11cht
 Version: 0.0.1-2-beta
 Section: Tweaks
