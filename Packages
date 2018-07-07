@@ -11,6 +11,34 @@ Description: Anemone 專用英文字體
 Name: Alegreya Sans Font for Anemone
 Author: Mrmad <mrmadtw@gmail.com>
 
+Package: com.mrmadtw.DemoFontAnemonecht
+Version: 1.0
+Section: Fonts
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.demofontanemonecht_1.0_iphoneos-arm.deb
+Size: 1160
+MD5sum: 66cbce510e84537a4befbbdc5229a026
+Description: 讓Anemone可以套用中文字體版型,請自行放入中文字體到資料夾內
+Name: Anemone中文字體模板
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/DemoFontAnemonecht/index.html
+
+Package: com.mrmadtw.DemoFontAnemoneeng
+Version: 1.0
+Section: Fonts
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: com.anemonetheming.anemone (>=2.0-1)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.demofontanemoneeng_1.0_iphoneos-arm.deb
+Size: 1156
+MD5sum: f9ee7ba7e4a903aab6f3b5147b24537a
+Description: 讓Anemone可以套用英文字體版型,請自行放入資料夾內
+Name: Anemone英文字體模板
+Author: Mrmad <mrmadtw@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/DemoFontAnemoneeng/index.html
+
 Package: com.mrmadtw.KillBackground11cht
 Version: 0.0.1-2-beta
 Section: Tweaks
