@@ -493,6 +493,38 @@ Name: MorePowerOptions
 Author: Seiterseiter
 Depiction: https://mrmadtw.github.io/repo/depiction/morepoweroptions/index.html
 
+Package: com.mrmadtw.newterm2
+Version: 2.0~beta3
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: firmware (>= 6.0), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8, ws.hbang.common (>= 1.11.2)
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.newterm2_2.0~beta3_iphoneos-arm.deb
+Size: 628218
+MD5sum: 40ebac6ce219d926d1f6f88f3436bb3c
+Description: A powerful terminal emulator for iOS
+Name: NewTerm 2
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://mrmadtw.github.io/repo/depiction/newterm2/index.html
+
+Package: com.mrmadtw.newterm2
+Version: 2.0~beta3
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Depends: firmware (>= 6.0), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8, ws.hbang.common (>= 1.11.2)
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.newterm2_2.0~beta3.deb
+Size: 628218
+MD5sum: aa786fc798cec71f8eb1dbc2eef3f4fb
+Description: A powerful terminal emulator for iOS
+Name: NewTerm 2
+Author: HASHBANG Productions <support@hbang.ws>
+Depiction: https://mrmadtw.github.io/repo/depiction/newterm2/index.html
+
 Package: com.mrmadtw.noctisxl
 Version: 1.0.5.1
 Section: Tweaks
