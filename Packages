@@ -709,9 +709,9 @@ Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.swipeselection_1.4.2-1_iphoneos-arm.deb
-Size: 11004
-MD5sum: 7f3ee5f18c8e578f7148911ffbae1e91
-Description: Anemone 專用英文字體
+Size: 10988
+MD5sum: 6d4f783f1af422ae2fe7e0b6ef3dba23
+Description: swipeselection穩定版本
 Name: SwipeSelection
 Author: iKy1e (Kyle Howells) <freerunnering@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/swipeselection/index.html
