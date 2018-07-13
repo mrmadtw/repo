@@ -180,6 +180,20 @@ Author: NeinZedd9
 Depiction: https://mrmadtw.github.io/repo/depiction/dateundertimex/index.html
 
 Package: com.mrmadtw.doubletaplock
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Spark
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.doubletaplock_0.0.3_iphoneos-arm.deb
+Size: 23588
+MD5sum: 4726143c4836fdabec4ed1b5710d9a3a
+Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
+Name: DoubleTapLock
+Author: Spark
+Depiction: https://mrmadtw.github.io/repo/depiction/doubletaplock/index.html
+
+Package: com.mrmadtw.doubletaplock
 Version: 0.0.1-18+debug
 Section: Tweaks
 Maintainer: Spark
@@ -645,6 +659,20 @@ Description: Disable an Application's Notifications with a 3D Touch Shortcut Act
 Name: Rooster
 Author: iOS Creatix
 Depiction: https://mrmadtw.github.io/repo/depiction/rooster/index.html
+
+Package: com.mrmadtw.safaripad
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.safaripad_1.0.0-1_iphoneos-arm.deb
+Size: 7358
+MD5sum: 454fcd5479d774292005e779b4a75a24
+Description: Safari iPad tabs on iPhone
+Name: SafariPad
+Author: LonestarX <me@lonestarx.net>
+Depiction: https://mrmadtw.github.io/repo/depiction/safaripad/index.html
 
 Package: com.mrmadtw.safaripluscht
 Version: 1.4.4
