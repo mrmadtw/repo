@@ -81,6 +81,23 @@ Name: NotTodaySatan
 Author: zackh105
 Depiction: https://mrmadtw.github.io/repo/depiction/NotTodaySatan/index.html
 
+Package: com.mrmadtw.appadmin
+Version: 1.0r-88
+Priority: optional
+Section: System
+Maintainer: UnlimApps Inc.
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.appadmin_1.0r88_iphoneos-arm.deb
+Size: 533056
+MD5sum: 478d131cbb0091a57016ac81f56b0fb5
+Description: 作者源已經下架，分流提供大家下載
+Name: App Admin
+Author: UnlimApps Inc.
+Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
+
 Package: com.mrmadtw.callblockercht
 Version: 1.0
 Section: Tweaks
