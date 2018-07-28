@@ -81,6 +81,20 @@ Name: NotTodaySatan
 Author: zackh105
 Depiction: https://mrmadtw.github.io/repo/depiction/NotTodaySatan/index.html
 
+Package: com.mrmadtw.afc2forios11
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate ,firmware (>=11.0)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.afc2forios11_1.2.1_iphoneos-arm.deb
+Size: 11446
+MD5sum: 91a2ff9281bc1e5c1469c16197b83285
+Description: 作者授權版，讓iOS 11顯示越獄資料夾
+Name: AFC2 For iOS11
+Author: halo_michael <yc992147156@me.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/afc2forios11/index.html
+
 Package: com.mrmadtw.appadmin
 Version: 1.0r-88
 Priority: optional
