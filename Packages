@@ -88,29 +88,12 @@ Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.afc2forios11_1.2.1_iphoneos-arm.deb
-Size: 11446
-MD5sum: 91a2ff9281bc1e5c1469c16197b83285
-Description: 作者授權版，讓iOS 11顯示越獄資料夾
+Size: 11444
+MD5sum: 1b8ee4d247d9578c8f8d6e3b10a12859
+Description: 讓iOS 11顯示越獄資料夾(開發者授權)
 Name: AFC2 For iOS11
 Author: halo_michael <yc992147156@me.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/afc2forios11/index.html
-
-Package: com.mrmadtw.appadmin
-Version: 1.0r-88
-Priority: optional
-Section: System
-Maintainer: UnlimApps Inc.
-Depends: firmware (>= 7.0), mobilesubstrate
-Conflicts: it.marcocristalli.asupdatehider
-Architecture: iphoneos-arm
-Filename: ./deb/com.mrmadtw.appadmin_1.0r88_iphoneos-arm.deb
-Size: 533056
-MD5sum: 478d131cbb0091a57016ac81f56b0fb5
-Description: 作者源已經下架，分流提供大家下載
-Name: App Admin
-Author: UnlimApps Inc.
-Homepage: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
-Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.uaupdatetools/
 
 Package: com.mrmadtw.callblockercht
 Version: 1.0
@@ -251,20 +234,6 @@ Description: An awesome MobileSubstrate tweak!An awesome MobileSubstrate tweak!
 Name: DoubleTapLock
 Author: Spark
 Depiction: https://mrmadtw.github.io/repo/depiction/doubletaplock/index.html
-
-Package: com.mrmadtw.electricfilza
-Version: 3.4.1
-Section: System
-Maintainer: Kieran Wilson
-Depends: mobilesubstrate, firmware (>= 11.0)
-Architecture: iphoneos-arm
-Filename: ./deb/com.mrmadtw.filza_3.4.1_iphoneos-arm.deb
-Size: 9380410
-MD5sum: a91c5186aa21416ee8a3fd1073e2be8b
-Description: Filza 支援iOS11越獄 Electra 完整功能版
-Name: Filza for Electra(iOS11)
-Author: Dry05
-Depiction: https://mrmadtw.github.io/repo/depiction/filza/index.html
 
 Package: com.mrmadtw.electricfilza
 Version: 3.4.2
@@ -424,20 +393,6 @@ Description: FortniteStealth bypasses Fortnite's jailbreak detection.
 Name: FortniteStealth2 (下載殼)
 Author: foogauzie <foogauzie@protonmail.ch>
 Depiction: https://mrmadtw.github.io/repo/depiction/fortnitestealth/index.html
-
-Package: com.mrmadtw.homegesture
-Version: 1.3
-Section: Tweaks
-Maintainer: VitaTaf
-Depends: mobilesubstrate ,firmware (>=11.0)
-Architecture: iphoneos-arm
-Filename: ./deb/com.mrmadtw.HomeGesture_1.3_iphoneos-arm.deb
-Size: 4036
-MD5sum: 375aba8e4d1b8228cbdddcf3343936fb
-Description: 非iPhone X設備實現手勢
-Name: HomeGesture
-Author: VitaTaf
-Depiction: https://mrmadtw.github.io/repo/depiction/homegesture/index.html
 
 Package: com.mrmadtw.intelix
 Version: 1.1.4b
