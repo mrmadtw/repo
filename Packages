@@ -95,6 +95,20 @@ Name: AFC2 For iOS11
 Author: halo_michael <yc992147156@me.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/afc2forios11/index.html
 
+Package: com.mrmadtw.cacheclearer
+Version: 0.1a
+Section: Tweaks
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
+Architecture: iphoneos-arm
+Filename: ./deb/com.mrmadtw.cacheclearer_0.1a_iphoneos-arm.deb
+Size: 6610
+MD5sum: e85c35c26860b419aeca4f3332045a60
+Description: Clear app caches from the Usage section in Settings
+Name: CacheClearer
+Author: julioverne
+Depiction: https://mrmadtw.github.io/repo/depiction/cacheclearer/index.html
+
 Package: com.mrmadtw.callblockercht
 Version: 1.0
 Section: Tweaks
