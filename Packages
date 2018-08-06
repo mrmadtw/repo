@@ -3,7 +3,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: ./repo/deb/com.mrmadtw.AlegreyaSans_1.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.AlegreyaSans_1.1_iphoneos-arm.deb
 Size: 4914696
 MD5sum: d4c939a2076e84ed31545224184251fd
 SHA1: 879d32779fd6c3b85dbb83956eb6d8c14515a181
@@ -18,7 +18,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: ./repo/deb/com.mrmadtw.demofontanemonecht_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.demofontanemonecht_1.0_iphoneos-arm.deb
 Size: 1160
 MD5sum: 66cbce510e84537a4befbbdc5229a026
 SHA1: 9e5b4c3b41522c0341f01e45ef6337a2239aa25b
@@ -34,7 +34,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
-Filename: ./repo/deb/com.mrmadtw.demofontanemoneeng_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.demofontanemoneeng_1.0_iphoneos-arm.deb
 Size: 1156
 MD5sum: f9ee7ba7e4a903aab6f3b5147b24537a
 SHA1: 81977620291bf690bbabc045fe57754dbfc5d05c
@@ -50,7 +50,7 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Mrmad
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.KillBackground10cht_1.1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.KillBackground10cht_1.1.0_iphoneos-arm.deb
 Size: 2092
 MD5sum: 2890bf793f39a17abd0698cfd34e7b0a
 SHA1: fb17747a34ab716ed6eaa52a4eb7b7c1574fa348
@@ -66,7 +66,7 @@ Version: 0.0.1-2-beta
 Architecture: iphoneos-arm
 Maintainer: Mrmad
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.KillBackground11cht_0.0.1-2-beta_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.KillBackground11cht_0.0.1-2-beta_iphoneos-arm.deb
 Size: 2126
 MD5sum: c90574ebe4265ecd11bad1da0330beca
 SHA1: 2ed8449be1ff8584a4ee0d7574f3174864ecc9d6
@@ -82,7 +82,7 @@ Version: 2.0-1
 Architecture: iphoneos-arm
 Maintainer: zackh105
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.nottodaysatan_2.0-1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.nottodaysatan_2.0-1_iphoneos-arm.deb
 Size: 3956
 MD5sum: d53031a3ea86ef2c682f563896ddc271
 SHA1: 7b507a2808a979bde23ceee699eb043975173475
@@ -98,7 +98,7 @@ Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.afc2forios11_1.2.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.afc2forios11_1.2.1_iphoneos-arm.deb
 Size: 11444
 MD5sum: 1b8ee4d247d9578c8f8d6e3b10a12859
 SHA1: 6bc510d4c49506ab46839c12e4f2ca17575b7a63
@@ -114,7 +114,7 @@ Version: 0.1a
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001)
-Filename: ./repo/deb/com.mrmadtw.cacheclearer_0.1a_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.cacheclearer_0.1a_iphoneos-arm.deb
 Size: 6610
 MD5sum: e85c35c26860b419aeca4f3332045a60
 SHA1: 3e53a3ed4d05119bb4a65c820c15c6be98e1edad
@@ -130,7 +130,7 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmad.com.tw>
 Depends: firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.callbarxcht_0.1-1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.callbarxcht_0.1-1_iphoneos-arm.deb
 Size: 1794
 MD5sum: b8e1225be0a4f42ebb3c785a56335e59
 SHA1: 7822141ceb84c5645cce15b2c8d02009f1735578
@@ -146,7 +146,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Mrmad
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.callblockercht_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.callblockercht_1.0_iphoneos-arm.deb
 Size: 1924
 MD5sum: 6f616041241c0d07cabdc20ccb4c5e98
 SHA1: 2a21841c066a2f6d5d7b2b7df3525d2466038886
@@ -162,7 +162,7 @@ Version: 0.0.5k
 Architecture: iphoneos-arm
 Maintainer: Andywiik
 Depends: mobilesubstrate ,firmware (>= 11.0)
-Filename: ./repo/deb/com.mrmadtw.ccmusicartwork_0.0.5k_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.ccmusicartwork_0.0.5k_iphoneos-arm.deb
 Size: 9214
 MD5sum: e62805fbcdf00140ce7d044ad56241b7
 SHA1: 12a06a28b3d7bb8c6a2d9b81aee3de6b0caa3d59
@@ -178,7 +178,7 @@ Version: 4.2.2.3
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmad.com.tw>
 Depends: firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.cercubecht_4.2.2.3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.cercubecht_4.2.2.3_iphoneos-arm.deb
 Size: 4032
 MD5sum: c3250c0622b34ad84a6a391b9c2c932e
 SHA1: 37b8f3bdf9810137e446439fa34266d36189a41d
@@ -194,7 +194,7 @@ Version: 4.2.2.3-a1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmad.com.tw>
 Depends: firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.cercubecht_4.2.2.3-a1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.cercubecht_4.2.2.3-a1_iphoneos-arm.deb
 Size: 4030
 MD5sum: d5e92597fdab39526862420b8c482862
 SHA1: f7e0b067f8fc4ade29c224174df90e5c6e3cdd4d
@@ -210,7 +210,7 @@ Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: Domo
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.cocoatop64_2.0.2_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.cocoatop64_2.0.2_iphoneos-arm.deb
 Size: 118972
 MD5sum: bf3d687c8984d0ea145feefe09e43ac6
 SHA1: 6ef6648064987bb60b4f87fc85136c8978d3cabb
@@ -226,7 +226,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: iOS Creatix
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.conditionalwifi3_1.0.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.conditionalwifi3_1.0.0_iphoneos-arm.deb
 Size: 8924
 MD5sum: 90e217c346739c73d492f795fee906ee
 SHA1: 1a1c16761343057bc98ecbac865165ffa6537ef4
@@ -242,7 +242,7 @@ Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: chloek
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.darkkeyboard_0.0.1-2_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.darkkeyboard_0.0.1-2_iphoneos-arm.deb
 Size: 3172
 MD5sum: c2b31d3161c82e27820863af75b76f2b
 SHA1: 677f1a32aaacd4b56b4748167a87e6e5af670c99
@@ -258,7 +258,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: NeinZedd9
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./repo/deb/com.mrmadtw.dateundertimex_1.0.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.dateundertimex_1.0.0_iphoneos-arm.deb
 Size: 3620
 MD5sum: d223eba32de035d32aa6e6c390c7fb3c
 SHA1: 09e26f08e0d778669ca8ab64f16f34fbc58db4ae
@@ -274,7 +274,7 @@ Version: 0.0.1-18+debug
 Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.doubletaplock_0.0.1-18_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.doubletaplock_0.0.1-18_iphoneos-arm.deb
 Size: 54674
 MD5sum: 9fdb2c3f49945d04a4c6bd8c3d121eac
 SHA1: 48fdafce5fe6fedf3cdcccd4fff6a8d1671b5888
@@ -290,7 +290,7 @@ Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.doubletaplock_0.0.3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.doubletaplock_0.0.3_iphoneos-arm.deb
 Size: 23588
 MD5sum: 4726143c4836fdabec4ed1b5710d9a3a
 SHA1: 2a2a7728b6d7c403a71f8630803d494d1273b77c
@@ -306,7 +306,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Mrmad
 Depends: mobilesubstrate, com.anemonetheming.anemone
-Filename: ./repo/deb/com.mrmadtw.eicaptitanloadingrespring_0.0.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.eicaptitanloadingrespring_0.0.1_iphoneos-arm.deb
 Size: 116976
 MD5sum: 2f599e13242273f54fdf171977ac8f35
 SHA1: 3597c900b71b8bcfd8065f60d34aeef086725685
@@ -321,7 +321,7 @@ Version: 3.4.2
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip, mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.filza_3.4.2_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.filza_3.4.2_iphoneos-arm.deb
 Size: 10635544
 MD5sum: 500e96ab21cb0c90655d0605c8c45e6a
 SHA1: ceffe50caa03e9adc79e3162bafb51880885688e
@@ -342,7 +342,7 @@ Architecture: iphoneos-arm
 Maintainer: macs@m4cs.xyz
 Depends: firmware (>=11.0), mobilesubstrate, com.ioscreatix.silo
 Replaces: com.ezccmodules.control-center.ezlocationmodule, com.m4cs.control-center.ezrespring, com.ezccmodules.control-center.ezsafemodemodule, com.exccmodules.control-center.ezuicache
-Filename: ./repo/deb/com.mrmadtw.ezcc_0.0.2_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.ezcc_0.0.2_iphoneos-arm.deb
 Size: 40096
 MD5sum: 04962ddb2450c30adf7af2f1b987dad9
 SHA1: 7995dd1ed41ed83d0cef0f16b2fd540bd7e506f3
@@ -359,7 +359,7 @@ Architecture: iphoneos-arm
 Maintainer: M4cs <macs@m4cs.xyz>
 Depends: mobilesubstrate, com.ioscreatix.silo
 Conflicts: com.m4cs.control-center.ezreboot, com.m4cs-dev.simalary.control-center.ezsecretsettings, com.clarke1234.ezcydiaopener
-Filename: ./repo/deb/com.mrmadtw.ezcc_0.0.4_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.ezcc_0.0.4_iphoneos-arm.deb
 Size: 47846
 MD5sum: 7c8b655343e8f0eff73b792afd1973eb
 SHA1: 12b5c26f23b1b30cb9b34dd118bda6a2a155fc7a
@@ -376,7 +376,7 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad
 Depends: mobilesubstrate, com.ioscreatix.silo
 Conflicts: com.m4cs.control-center.ezreboot, com.m4cs-dev.simalary.control-center.ezsecretsettings, com.clarke1234.ezcydiaopener
-Filename: ./repo/deb/com.mrmadtw.ezcc_1.1-4_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.ezcc_1.1-4_iphoneos-arm.deb
 Size: 121900
 MD5sum: 4bdb1a687d85de1a1ff4d972dd98a570
 SHA1: 2a49e9ed4482a97f2912240df7efe9fbecb8559f
@@ -393,7 +393,7 @@ Architecture: iphoneos-arm
 Maintainer: Chilaxan and M4cs
 Pre-Depends: mobilesubstrate
 Depends: mobilesubstrate, com.ioscreatix.silo
-Filename: ./repo/deb/com.mrmadtw.ezlocation_0.0.5_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.ezlocation_0.0.5_iphoneos-arm.deb
 Size: 10020
 MD5sum: 7176aa84fcfefc1f8b3e3c34fec32e3a
 SHA1: 78c83773470da56779f95ded4be2d1a7bd6cc67a
@@ -409,7 +409,7 @@ Architecture: iphoneos-arm
 Maintainer: M4cs
 Pre-Depends: mobilesubstrate
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.ezrespring_1.2-debug3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.ezrespring_1.2-debug3_iphoneos-arm.deb
 Size: 7422
 MD5sum: 9a38bc1d3fa47577a251674d3ec4ff84
 SHA1: 82527b772c3cce1d15ca5fb2c8b77188b296076f
@@ -425,7 +425,7 @@ Architecture: iphoneos-arm
 Maintainer: M4cs
 Pre-Depends: mobilesubstrate
 Depends: mobilesubstrate, com.ioscreatix.silo
-Filename: ./repo/deb/com.mrmadtw.ezsafemode_0.0.3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.ezsafemode_0.0.3_iphoneos-arm.deb
 Size: 9644
 MD5sum: 78c5fd2e129fd552dbd0f77eda3f208d
 SHA1: 7fbef4724752382fb3e84f84c4271de09f0abee7
@@ -440,7 +440,7 @@ Version: 1.0.0-4
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.fdotscht_1.0.0-4_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.fdotscht_1.0.0-4_iphoneos-arm.deb
 Size: 1316
 MD5sum: 372d2bc2877fbcbd50c89be907047722
 SHA1: 8198b7493ca7e0524e84bdcf898a0a27139c8885
@@ -456,7 +456,7 @@ Version: 1.0.0-4-1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.fdotscht_1.0.0-4-1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.fdotscht_1.0.0-4-1_iphoneos-arm.deb
 Size: 1324
 MD5sum: b124f6e84a3aca9a8ca1eddbb1638cde
 SHA1: c626c37e5a8853a2a29c9e7eb353a0ceece12568
@@ -472,7 +472,7 @@ Version: 0.0.1-10+debug
 Architecture: iphoneos-arm
 Maintainer: XCXiao
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.floatingdockxi_0.0.1-10+debug_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.floatingdockxi_0.0.1-10+debug_iphoneos-arm.deb
 Size: 4938
 MD5sum: 1afbc3cad8ca55f3b755673d0c887910
 SHA1: e0904e87c6b9a500d24c17ef6b2ed2629bf4e9c3
@@ -488,7 +488,7 @@ Version: 0.0.1-12+debug
 Architecture: iphoneos-arm
 Maintainer: XCXiao
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.floatingdockxi_0.0.1-12+debug_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.floatingdockxi_0.0.1-12+debug_iphoneos-arm.deb
 Size: 5534
 MD5sum: c4aef856995e3f78b4bc8d869afc6f3f
 SHA1: 55d64adb13e4e0899d6da2dda1c50ee5b8b39344
@@ -504,7 +504,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: foogauzie <foogauzie@protonmail.ch>
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.fortnitestealth2_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.fortnitestealth2_1.0_iphoneos-arm.deb
 Size: 2076
 MD5sum: 0f88872f1f8546660eea2304834a2f73
 SHA1: 56f60ab3a456266a9a551ac6b41e19f96363066b
@@ -520,7 +520,7 @@ Version: 1.1.4b
 Architecture: iphoneos-arm
 Maintainer: iOS Creatix
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./repo/deb/com.mrmadtw.intelix_1.1.4b_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.intelix_1.1.4b_iphoneos-arm.deb
 Size: 25732
 MD5sum: 3c433905610ce7f7dc3a0f15310436da
 SHA1: 97b324d8a1065283244a830bd2bc267aca026987
@@ -537,7 +537,7 @@ Architecture: iphoneos-arm
 Maintainer: linspike
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
 Conflicts: kuaidial-beta
-Filename: ./repo/deb/com.mrmadtw.KuaiDial_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.KuaiDial_iphoneos-arm.deb
 Size: 582576
 MD5sum: c79c17175266a1709b6427a0b2ffa732
 SHA1: 0120fa4a867edd4ad45488a2d40b3fc314a5ecd6
@@ -553,7 +553,7 @@ Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: LatchKey
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.latchkey_0.2_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.latchkey_0.2_iphoneos-arm.deb
 Size: 323770
 MD5sum: 8d17d8799d25d2b89fb71d0e54ec70be
 SHA1: 529722680111d7152bf4445388ef81eb88ff6f5b
@@ -569,7 +569,7 @@ Version: 0.5.1
 Architecture: iphoneos-arm
 Maintainer: Hiraku
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.linenodetect_0.5.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.linenodetect_0.5.1_iphoneos-arm.deb
 Size: 13994
 MD5sum: d1dce29634314bbe764a3aebab65fdfe
 SHA1: 8642adcbb4efe2e1c090e0140ca80692e5d43ad2
@@ -585,7 +585,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate, firmware (>= 5.0)
-Filename: ./repo/deb/com.mrmadtw.linestickergiftenabler_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.linestickergiftenabler_1.0_iphoneos-arm.deb
 Size: 2722
 MD5sum: cdfc0afc8891e82a9ae98f63277a3857
 SHA1: 61d3a2e48365d2908282702cdd6cff9f3928efbc
@@ -601,7 +601,7 @@ Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate, firmware (>= 5.0)
-Filename: ./repo/deb/com.mrmadtw.linethemegiftenabler_1.0-1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.linethemegiftenabler_1.0-1_iphoneos-arm.deb
 Size: 7356
 MD5sum: 59760adc6092b63437f9d4329741d9c8
 SHA1: eb25e9fbc82eb2feb75a2bf426d6d49f800f2b74
@@ -617,7 +617,7 @@ Version: 1.3.4
 Architecture: iphoneos-arm
 Maintainer: Andywiik
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.littlex_1.3.4_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.littlex_1.3.4_iphoneos-arm.deb
 Size: 26750
 MD5sum: 501e1c4cff0d87b71c5867ee6b7a819f
 SHA1: e166fd9be8a8a54c0b91785c3a91cce40e067100
@@ -633,7 +633,7 @@ Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: Jake Ihasz
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.makecydiabuyagain_1.0-1+debug_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.makecydiabuyagain_1.0-1+debug_iphoneos-arm.deb
 Size: 3922
 MD5sum: d463404415233d52f87cc74ff89bc97a
 SHA1: 1c322f8e989382bd87ab215852deaf0bd6f1e3d6
@@ -649,7 +649,7 @@ Version: 1.0.2-1
 Architecture: iphoneos-arm
 Maintainer: David Goldman
 Depends: firmware (>= 9.0), mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.manila_1.0.0-1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.manila_1.0.0-1_iphoneos-arm.deb
 Size: 14650
 MD5sum: f5e6eabc9d5c6252d293034177d6de00
 SHA1: 9c65ce418049110516c8809c90b5f9737cab50a3
@@ -665,7 +665,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: FivePixels
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.mariomaps_1.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.mariomaps_1.1_iphoneos-arm.deb
 Size: 1792
 MD5sum: 5d6c6d3544bd247c68cd8933f2f0cb9c
 SHA1: f4800bfe77d789a3a597ccd0a1dc19caa1eba38f
@@ -681,7 +681,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=9.0)
-Filename: ./repo/deb/com.mrmadtw.morepoweroptions_1.3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.morepoweroptions_1.3_iphoneos-arm.deb
 Size: 17838
 MD5sum: 2506312b07cfac065d5e2ed996926bf7
 SHA1: 31eab9109d9dd6a4ee316e75a8d2e43064e0b2d2
@@ -697,7 +697,7 @@ Version: 1.0.5.1
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll
 Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./repo/deb/com.mrmadtw.noctisxl_1.0.5.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.noctisxl_1.0.5.1_iphoneos-arm.deb
 Size: 78790
 MD5sum: 44430ab24a9efa76cbce9c2f31a1fc0f
 SHA1: ed51d8d42bc539cdd4006dc528e1e5cb5b8e73a4
@@ -713,7 +713,7 @@ Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.nomoresmallapps_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.nomoresmallapps_iphoneos-arm.deb
 Size: 2970
 MD5sum: e9ca0725eba8fc4a2da7766cb3256a4d
 SHA1: dec33c9156460dc4f908ceb866a6112cd5978f39
@@ -729,7 +729,7 @@ Version: 0.0.1-18+debug
 Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.notchless_0.0.1-18_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.notchless_0.0.1-18_iphoneos-arm.deb
 Size: 7564
 MD5sum: b4476d2fd03f017f8a9b63789470ab00
 SHA1: 05751cb3d12a4871b4a2bdf2c045ef938f55224a
@@ -745,7 +745,7 @@ Version: 2.5.0
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: firmware (>= 11.0)
-Filename: ./repo/deb/com.mrmadtw.opennotifier11_2.5.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.opennotifier11_2.5.0_iphoneos-arm.deb
 Size: 1828
 MD5sum: 9eb02b71b76372b3bb9838db54b07045
 SHA1: a004b7eb766b46a87d757a7ef567b45c5fdbf2ee
@@ -761,7 +761,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: NeinZedd9
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.percentagebatteryx_1.0.2_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.percentagebatteryx_1.0.2_iphoneos-arm.deb
 Size: 4870
 MD5sum: 636be43cd59c60041b44680d8aa7d77f
 SHA1: 8ca01d7e1a6225e05b726c839d85bad07fe043a6
@@ -776,7 +776,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: NeinZedd9
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.percentagecirclex_1.0.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.percentagecirclex_1.0.1_iphoneos-arm.deb
 Size: 5332
 MD5sum: ef3b36c0fce0446bd3af88d7e2bb9e8e
 SHA1: f979113bcca91a4e620c7cdd14317260d820c9f1
@@ -792,7 +792,7 @@ Version: 1.3.3
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./repo/deb/com.mrmadtw.photomanagercht_1.3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.photomanagercht_1.3_iphoneos-arm.deb
 Size: 3686
 MD5sum: 177440df6a89966d86448d5214cd5130
 SHA1: 70ad38a9aac96b8357d337ed9a1ac474fbe52c98
@@ -808,7 +808,7 @@ Version: 1.1.0
 Architecture: iphoneos-arm
 Maintainer: Jeffrey Chan <pikabu.jeffrey.chan@gmail.com>
 Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: ./repo/deb/com.mrmadtw.pikabulite_1.1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.pikabulite_1.1.0_iphoneos-arm.deb
 Size: 212086
 MD5sum: 7d4ec20e8bf382793da873a9d8c23703
 SHA1: 84477b1005760e5017e52605528d638eb3e0ea1d
@@ -824,7 +824,7 @@ Version: 0.0.4-1
 Architecture: iphoneos-arm
 Maintainer: System Administrator
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.realcc_0.0.4-1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.realcc_0.0.4-1_iphoneos-arm.deb
 Size: 2784
 MD5sum: c43c33a29083b0db703f3b5a72490635
 SHA1: 994bc244c68db5e1f405777fbdc2f86ac3c3adf1
@@ -840,7 +840,7 @@ Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: ABCydia
 Depends: mobilesubstrate,  preferenceloader
-Filename: ./repo/deb/com.mrmadtw.recallpatch_1.0-3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.recallpatch_1.0-3_iphoneos-arm.deb
 Size: 69350
 MD5sum: fab1cd237204620689e6ecc3d0cef60d
 SHA1: bf589f5e523d1aaf489901baa47bce5ee7c10aa5
@@ -856,7 +856,7 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: iOS Creatix
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.rooster_1.0.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.rooster_1.0.0_iphoneos-arm.deb
 Size: 3456
 MD5sum: 80a66a3f2be372a0b950c955d694307f
 SHA1: 5994263ec408eacf49f6bad9686acda0d60a0382
@@ -872,7 +872,7 @@ Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.safaripad_1.0.0-1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.safaripad_1.0.0-1_iphoneos-arm.deb
 Size: 7358
 MD5sum: 454fcd5479d774292005e779b4a75a24
 SHA1: 02416cc845c69ba5a7d8234d9f60232186304023
@@ -888,7 +888,7 @@ Version: 1.4.4
 Architecture: iphoneos-arm
 Maintainer: Ryan
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.safaripluscht_1.4.4_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.safaripluscht_1.4.4_iphoneos-arm.deb
 Size: 5870
 MD5sum: 47ade9006a959d5bdf83b5c39d7f09e5
 SHA1: ca4d8f5185791cc02f7173df2c6472c6494b1cfc
@@ -904,7 +904,7 @@ Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: Kiran Patil
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.screenrecorderforcedaudio_1.0-3_iphoneos-arm.deb
 Size: 22214
 MD5sum: 19eff7a98aa8ba8deed556a7c25314cd
 SHA1: 6ab5084215e23a19787f885e7e2cfa09684f26a6
@@ -920,7 +920,7 @@ Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: LaughingQuoll
 Depends: mobilesubstrate ,firmware (>= 11.0)
-Filename: ./repo/deb/com.mrmadtw.semperon_1.2_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.semperon_1.2_iphoneos-arm.deb
 Size: 11224
 MD5sum: 4425798f8164da85b7db378e63bedd51
 SHA1: 1a94bb26b8e39f6169eabc29922713b98b0e3750
@@ -936,7 +936,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: ArtikusHG
 Depends: firmware (>=10.0), mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.swiper_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.swiper_1.0_iphoneos-arm.deb
 Size: 14750
 MD5sum: 439b660c2c35f2383665b8a5b356d565
 SHA1: 7a79b9af8d12eb2e6a76f29fad629b6dfedb2c5f
@@ -952,7 +952,7 @@ Version: 1.4.2-1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0)
-Filename: ./repo/deb/com.mrmadtw.swipeselection_1.4.2-1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.swipeselection_1.4.2-1_iphoneos-arm.deb
 Size: 10988
 MD5sum: 6d4f783f1af422ae2fe7e0b6ef3dba23
 SHA1: f92ed9c68abea459448e958bfb6a52d85df24601
@@ -968,7 +968,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Andywiik
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.swipeuplockx_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.swipeuplockx_1.0_iphoneos-arm.deb
 Size: 3054
 MD5sum: fadc1bdd0c6343c9f94d78449b8f042b
 SHA1: 6fabee6ca51f804a403d6adf6a7f8f8ed6355f39
@@ -984,7 +984,7 @@ Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Janosch
 Depends: mobilesubstrate, firmware (>= 10.0)
-Filename: ./repo/deb/com.mrmadtw.tactful_1.3_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.tactful_1.3_iphoneos-arm.deb
 Size: 10624
 MD5sum: 183ee11767964231c806109a089bd9a6
 SHA1: d48f25e68922eb4452c1cee6aaa8b5df94e9b061
@@ -1000,7 +1000,7 @@ Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
 Maintainer: Andywiik
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.taptickeys_0.0.1-5_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.taptickeys_0.0.1-5_iphoneos-arm.deb
 Size: 187762
 MD5sum: 6871c149a43562ae4b5acc9541c329f1
 SHA1: 073ccb71428255f160e51635a12ff631f4481dfa
@@ -1016,7 +1016,7 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: AppleBetas
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.translucentmessages_1.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.translucentmessages_1.1_iphoneos-arm.deb
 Size: 149342
 MD5sum: a321c3cde883bde33b735d0e7a450e25
 SHA1: 9139c0648eaaa4d1252c5cb558422d5faae6383e
@@ -1032,7 +1032,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Mrmad
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.wdlfix_1.0.1_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.wdlfix_1.0.1_iphoneos-arm.deb
 Size: 1364
 MD5sum: 6ea63e41c80a7d5f4a90f8ca0a0f1ffc
 SHA1: 481e297c2219619df5dbe0c09eda95b33057220b
@@ -1048,7 +1048,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Spark
 Depends: mobilesubstrate
-Filename: ./repo/deb/com.mrmadtw.xbarremover_1.0_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.xbarremover_1.0_iphoneos-arm.deb
 Size: 2836
 MD5sum: 549b1fe4e360e7a0113fd5daf2a9b4e4
 SHA1: 836e729cf1feefa6a1bb3df0cf27a4d5687b842a
@@ -1064,7 +1064,7 @@ Version: 42~beta2
 Architecture: iphoneos-arm
 Maintainer: Lunatik
 Depends: mobilesubstrate ,firmware (<< 11.0)
-Filename: ./repo/deb/com.mrmadtw.xcon_42~beta2_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.xcon_42~beta2_iphoneos-arm.deb
 Size: 40810
 MD5sum: 1672aed26dc0ad019ed8f194209ff0b9
 SHA1: 8d6002dd9d4429d087c17ebc742a6a595a2780fd
@@ -1082,7 +1082,7 @@ Maintainer: Lunatik
 Depends: mobilesubstrate ,firmware (<< 11.0)
 Conflicts: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
 Replaces: co.xcon, co.xcon.xcon, com.yourcompany.dtvrunner
-Filename: ./repo/deb/com.mrmadtw.xcon_42~beta4_iphoneos-arm.deb
+Filename: ./deb/com.mrmadtw.xcon_42~beta4_iphoneos-arm.deb
 Size: 65128
 MD5sum: 8ceed569efb4ec29ad18ac7a106df403
 SHA1: 0ef737e44c01d2b008f890b75fae3437c154d00e
