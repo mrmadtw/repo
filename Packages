@@ -211,15 +211,15 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate
 Filename: ./deb/com.mrmadtw.classfolders2cht_2.1.3_iphoneos-arm.deb
-Size: 3354
-MD5sum: 81d2acb387f4a0fd261aadd7bddbd848
-SHA1: ba5613b9a665377149eae444d2e0a8bd4414f8aa
-SHA256: 96c7bf37c5924fcac548789be91186987fefa7e493595dc1c26501a1f2ac0c68
+Size: 1638
+MD5sum: eb357b5c0a9105bddd7940b05a5a8a49
+SHA1: 7bab27874f0516d4949595419b86c7aba54c95cd
+SHA256: 5ea07b6343dbcfea5c109bd70cecfce68149b711bf04631e49a5525a38581db5
 Section: Tweaks
 Description: Classic Folders 2繁體中文化使用前先裝主程式
 Author: Kevin <keven5211@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/classfolders2cht/index.html
-Name: Classic Folders 2繁體中文化
+Name: ClassicFolders 2繁體中文化
 
 Package: com.mrmadtw.cocoatop64
 Version: 2.0.2
