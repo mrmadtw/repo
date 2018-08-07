@@ -205,6 +205,22 @@ Author: Mrmad <mrmad.com.tw>
 Depiction: https://mrmadtw.github.io/repo/depiction/cercubecht/index.html
 Name: Cercube 繁體中文化
 
+Package: com.mrmadtw.classfolders2cht
+Version: 2.1.3
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.mrmadtw.classfolders2cht_2.1.3_iphoneos-arm.deb
+Size: 3354
+MD5sum: 81d2acb387f4a0fd261aadd7bddbd848
+SHA1: ba5613b9a665377149eae444d2e0a8bd4414f8aa
+SHA256: 96c7bf37c5924fcac548789be91186987fefa7e493595dc1c26501a1f2ac0c68
+Section: Tweaks
+Description: Classic Folders 2繁體中文化使用前先裝主程式
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/classfolders2cht/index.html
+Name: Classic Folders 2繁體中文化
+
 Package: com.mrmadtw.cocoatop64
 Version: 2.0.2
 Architecture: iphoneos-arm
