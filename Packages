@@ -93,22 +93,6 @@ Author: zackh105
 Depiction: https://mrmadtw.github.io/repo/depiction/NotTodaySatan/index.html
 Name: NotTodaySatan
 
-Package: com.mrmadtw.afc2forios11
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: Mrmad <mrmadtw@gmail.com>
-Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./deb/com.mrmadtw.afc2forios11_1.2.1_iphoneos-arm.deb
-Size: 11444
-MD5sum: 1b8ee4d247d9578c8f8d6e3b10a12859
-SHA1: 6bc510d4c49506ab46839c12e4f2ca17575b7a63
-SHA256: b79b975077eca94e535c6167b039ed2fd4dc59d60ab2f13196158c6d3874571e
-Section: Tweaks
-Description: 讓iOS 11顯示越獄資料夾(開發者授權)
-Author: halo_michael <yc992147156@me.com>
-Depiction: https://mrmadtw.github.io/repo/depiction/afc2forios11/index.html
-Name: AFC2 For iOS11
-
 Package: com.mrmadtw.audiorecorder2cht
 Version: 1.6-93
 Architecture: iphoneos-arm
