@@ -19,10 +19,10 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
 Filename: ./deb/com.mrmadtw.demofontanemonecht_1.0_iphoneos-arm.deb
-Size: 1160
-MD5sum: 66cbce510e84537a4befbbdc5229a026
-SHA1: 9e5b4c3b41522c0341f01e45ef6337a2239aa25b
-SHA256: f80944f083bf07f7aa28d27d3c2ff82082487bd5dd15ef4db5d1eaa697bb6553
+Size: 1222
+MD5sum: e01946a1bad79e65054f30ecabd10e0e
+SHA1: 59d64ddd0fee2095373a801177162da6a49fa864
+SHA256: 326e26ac2f8c4ee716edd7cf3e6d744908cd404fe5fbe26aeb099bdccdb82366
 Section: Fonts
 Description: 讓Anemone可以套用中文字體版型,請自行放入中文字體到資料夾內
 Author: Mrmad <mrmadtw@gmail.com>
@@ -99,11 +99,11 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate
 Filename: ./deb/com.mrmadtw.audiorecorder2cht.1.6-93_iphoneos-arm.deb
-Size: 2570
-MD5sum: 7d316bbb13c3d12e2803d77fbcf5b5a5
-SHA1: 678a7d9c62407a5cb026a8b187b875df43efeb1a
-SHA256: 87cbabf20dedd3b83e3e8656bae1bcf524642ecbd417ff4b164ac21ffe3edd2e
-Section: Tweaks
+Size: 2576
+MD5sum: c1865e27bc62bfff57ff2685cc3c5650
+SHA1: 70feb5448a84da2bb7f6e11913c3d177f38d3582
+SHA256: b58539d05864bff413518ad500204741e43c6af28e39e8674c03276c27913237
+Section: Localization
 Description: 修補AudioRecorder 2中文化不完整
 Author: Kevin <keven5211@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/audiorecorder2cht/index.html
@@ -126,32 +126,16 @@ Depiction: https://mrmadtw.github.io/repo/depiction/cacheclearer/index.html
 Name: CacheClearer
 
 Package: com.mrmadtw.callbarxcht
-Version: 0.1-1
-Architecture: iphoneos-arm
-Maintainer: Mrmad <mrmad.com.tw>
-Depends: firmware (>=11.0)
-Filename: ./deb/com.mrmadtw.callbarxcht_0.1-1_iphoneos-arm.deb
-Size: 1794
-MD5sum: b8e1225be0a4f42ebb3c785a56335e59
-SHA1: 7822141ceb84c5645cce15b2c8d02009f1735578
-SHA256: 3a9ff7bcece5efa9d68fb7c2c636fb1cb53d82455381ff16f2e18a5f3d82b304
-Section: Tweaks
-Description: 安裝前請先安裝 CallBar X
-Author: Mrmad <mrmad.com.tw>
-Depiction: https://mrmadtw.github.io/repo/depiction/callbarxcht/index.html
-Name: CallBar X繁體中文化
-
-Package: com.mrmadtw.callbarxcht
 Version: 0.1-1a
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmad.com.tw>
 Depends: firmware (>=11.0)
 Filename: ./deb/com.mrmadtw.callbarxcht_0.1-1a_iphoneos-arm.deb
-Size: 1862
-MD5sum: c9c079eceb2211dbe9f2eba86a736b9e
-SHA1: db2e9dfc3c21f6de937be36da83a24bba399daf4
-SHA256: 6fecc13357f6c3d48a9fdaed0967f2f2e8cb06a9f46d9e6e1e2f7d1e99fe476f
-Section: Tweaks
+Size: 1868
+MD5sum: 56f64ffa2a7375aa545af3dbc5b22701
+SHA1: d7c6f90aa8170a5c67497d8bae5906943acd7b27
+SHA256: 948a9d58e2cef1b07c10ce9117ad1c6cf9326ef4d40d29b815bdc492e90ac469
+Section: Localization
 Description: 安裝前請先安裝 CallBar X
 Author: Mrmad <mrmad.com.tw>
 Depiction: https://mrmadtw.github.io/repo/depiction/callbarxcht/index.html
@@ -160,16 +144,16 @@ Name: CallBar X繁體中文化
 Package: com.mrmadtw.callblockercht
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Mrmad
+Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
 Filename: ./deb/com.mrmadtw.callblockercht_1.0_iphoneos-arm.deb
-Size: 1924
-MD5sum: 6f616041241c0d07cabdc20ccb4c5e98
-SHA1: 2a21841c066a2f6d5d7b2b7df3525d2466038886
-SHA256: 869fb88bfdacce4a797c28d63b53b7395644c59223ce580f37e9edfafd52fab7
-Section: Tweaks
+Size: 1968
+MD5sum: d89405d2aec3158cef1f7a91de5a8b97
+SHA1: a5b8a16081a8e38fe260d0cc71823af1d89cd93a
+SHA256: 63d269b0addd5c5bac84317385c3d8bb51a1ef71aa1cd241a06c177888bfaf1f
+Section: Localization
 Description: 安裝前請先安裝好 CallBlocker
-Author: Mrmad
+Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/callblockercht/index.html
 Name: CallBlocker 繁體中文化
 
@@ -190,32 +174,16 @@ Depiction: https://mrmadtw.github.io/repo/depiction/ccmusicartwork/index.html
 Name: CcmusicArtwork
 
 Package: com.mrmadtw.cercubecht
-Version: 4.2.2.3
-Architecture: iphoneos-arm
-Maintainer: Mrmad <mrmad.com.tw>
-Depends: firmware (>=11.0)
-Filename: ./deb/com.mrmadtw.cercubecht_4.2.2.3_iphoneos-arm.deb
-Size: 4032
-MD5sum: c3250c0622b34ad84a6a391b9c2c932e
-SHA1: 37b8f3bdf9810137e446439fa34266d36189a41d
-SHA256: 0a58a78ad0341d51cc6ef16bd608a55abbcf71137db4185d03c5e5348ead307d
-Section: Tweaks
-Description: 安裝前請先安裝 Cercube
-Author: Mrmad <mrmad.com.tw>
-Depiction: https://mrmadtw.github.io/repo/depiction/cercubecht/index.html
-Name: Cercube 繁體中文化
-
-Package: com.mrmadtw.cercubecht
 Version: 4.2.2.3-a1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmad.com.tw>
 Depends: firmware (>=11.0)
 Filename: ./deb/com.mrmadtw.cercubecht_4.2.2.3-a1_iphoneos-arm.deb
-Size: 4030
-MD5sum: d5e92597fdab39526862420b8c482862
-SHA1: f7e0b067f8fc4ade29c224174df90e5c6e3cdd4d
-SHA256: f96463eff3cd1b8bc26cf28bff66e85f90cf0c22b59f7037aa7a84646f6e8277
-Section: Tweaks
+Size: 4066
+MD5sum: 429c4a72660fbe0ae75cf496baed3275
+SHA1: 0e9a2f22bacef06c9448c4cb6afbe74fb927ca5b
+SHA256: e73c11fcdf6ebc275b73a6180fa345365996ca415f73a32fa26c3a83ea064123
+Section: Localization
 Description: 安裝前請先安裝 Cercube
 Author: Mrmad <mrmad.com.tw>
 Depiction: https://mrmadtw.github.io/repo/depiction/cercubecht/index.html
@@ -228,10 +196,10 @@ Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate
 Filename: ./deb/com.mrmadtw.classfolders2cht_2.1.3_iphoneos-arm.deb
 Size: 1638
-MD5sum: eb357b5c0a9105bddd7940b05a5a8a49
-SHA1: 7bab27874f0516d4949595419b86c7aba54c95cd
-SHA256: 5ea07b6343dbcfea5c109bd70cecfce68149b711bf04631e49a5525a38581db5
-Section: Tweaks
+MD5sum: 1613582d7b8621691501fd50f57d98ee
+SHA1: c01cff040d95b15b745e38beac9892f90fe8f798
+SHA256: a11a79a5892f2ff5c03d9fb7508407d6200bff470974cda4b005b3bd6c9b5815
+Section: Localization
 Description: Classic Folders 2繁體中文化使用前先裝主程式
 Author: Kevin <keven5211@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/classfolders2cht/index.html
@@ -468,32 +436,16 @@ Author: M4cs
 Name: EzSafemode
 
 Package: com.mrmadtw.fdotscht
-Version: 1.0.0-4
-Architecture: iphoneos-arm
-Maintainer: Mrmad <mrmadtw@gmail.com>
-Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./deb/com.mrmadtw.fdotscht_1.0.0-4_iphoneos-arm.deb
-Size: 1316
-MD5sum: 372d2bc2877fbcbd50c89be907047722
-SHA1: 8198b7493ca7e0524e84bdcf898a0a27139c8885
-SHA256: 82c6734c882b57478bb05dc142445ff8c4910505d9d520460d67c5e612c6e582
-Section: Tweaks
-Description: 安裝前請先安裝好 FDots
-Author: Mrmad <mrmadtw@gmail.com>
-Depiction: https://mrmadtw.github.io/repo/depiction/fdotscht/index.html
-Name: FDots 繁體中文化
-
-Package: com.mrmadtw.fdotscht
 Version: 1.0.0-4-1
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
 Filename: ./deb/com.mrmadtw.fdotscht_1.0.0-4-1_iphoneos-arm.deb
-Size: 1324
-MD5sum: b124f6e84a3aca9a8ca1eddbb1638cde
-SHA1: c626c37e5a8853a2a29c9e7eb353a0ceece12568
-SHA256: 8b6284147c18f888a8c4374a88e8ec491a4c809bb1839ce0921ccdefc9f26aa5
-Section: Tweaks
+Size: 1348
+MD5sum: 5634eb04353cc1bd827512aabe83dc7b
+SHA1: abdaf08a03d6f6e228e5e30959662d5f9e9e79bb
+SHA256: 4143bf8ebf47452fb9a150770d11ac704cef0a14dd600b1d88fed7e5c70f0fa4
+Section: Localization
 Description: 安裝前請先安裝好 FDots
 Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/fdotscht/index.html
@@ -825,11 +777,11 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate ,firmware (>=11.0)
 Filename: ./deb/com.mrmadtw.photomanagercht_1.3_iphoneos-arm.deb
-Size: 3686
-MD5sum: 177440df6a89966d86448d5214cd5130
-SHA1: 70ad38a9aac96b8357d337ed9a1ac474fbe52c98
-SHA256: 3bb03c639c9c44f4addae225933800aa442572d2a906a70b46ea79d8a3bd54d0
-Section: Tweaks
+Size: 3690
+MD5sum: e0d5ce84c12b258eae6572be2394f9a1
+SHA1: caf771205f1d2fba5aafd74a75b1da09aa3f1c3f
+SHA256: aaa82c896de08710d12013dfe192cccb7e08de9e3068240f88a373ae0f05adad
+Section: Localization
 Description: 使用前請先安裝好 PhotoManager
 Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/photomanagercht/index.html
@@ -921,11 +873,11 @@ Architecture: iphoneos-arm
 Maintainer: Ryan
 Depends: mobilesubstrate
 Filename: ./deb/com.mrmadtw.safaripluscht_1.4.4_iphoneos-arm.deb
-Size: 5870
-MD5sum: 47ade9006a959d5bdf83b5c39d7f09e5
-SHA1: ca4d8f5185791cc02f7173df2c6472c6494b1cfc
-SHA256: e8f21a62110c21bce16cab7a5788f1016c2d4243a766ea51087acad37958e01d
-Section: Tweaks
+Size: 5940
+MD5sum: 0ed98fb3fd226157f4a0cacaf2485686
+SHA1: 182c0e6f3ea80ca00a3233d869e169d09ae182c0
+SHA256: abd8dbcb69cba03532b64added0ae0944ea30622c729bcb2740a77357f54e281
+Section: Localization
 Description: Safari Plus 繁體中文化，安裝前請先安裝好 Safari Plus
 Author: Ryan
 Depiction: https://mrmadtw.github.io/repo/depiction/safariplus/index.html
