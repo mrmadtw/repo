@@ -158,15 +158,15 @@ Depiction: https://mrmadtw.github.io/repo/depiction/callbarxcht/index.html
 Name: CallBar X繁體中文化
 
 Package: com.mrmadtw.callbarxcht
-Version: 0.2-2
+Version: 0.2-2a
 Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmad.com.tw>
 Depends: firmware (>=11.0)
 Filename: ./deb/com.mrmadtw.callbarxcht_0.2-2a_iphoneos-arm.deb
-Size: 2264
-MD5sum: 8393bc779506c04bc72f4049ace1a3d7
-SHA1: 7cb439850e95d4f63f046a54ae441a920dc6a661
-SHA256: 1d75a95f733677551a67f94c4f56656cc5a64ecd12cec74e40f27cb1dfb6e78e
+Size: 2432
+MD5sum: 514aa2a732336251184bb6367c0fa975
+SHA1: dcdb32f9e7e9ad6ebe93e0263102ec7ad6795557
+SHA256: c80382f46f41051f61379b7458374b35c8ecafb1fd2a462c0606fb73dc2d736a
 Section: Localization
 Description: 安裝前請先安裝 CallBar X
 Author: Mrmad <mrmad.com.tw>
