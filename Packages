@@ -173,22 +173,6 @@ Author: Mrmad <mrmad.com.tw>
 Depiction: https://mrmadtw.github.io/repo/depiction/callbarxcht/index.html
 Name: CallBar X繁體中文化
 
-Package: com.mrmadtw.callbarxcht
-Version: 0.2-97
-Architecture: iphoneos-arm
-Maintainer: Mrmad <mrmadtw@gmail.com.tw>
-Depends: firmware (>=11.0)
-Filename: ./deb/com.mrmadtw.callbarxcht_0.2-97_iphoneos-arm.deb
-Size: 2198
-MD5sum: ee5e6cba70a68f576a63d8a4a6aab603
-SHA1: 38acaa98ed83fdb6fb315575c958450f9300d307
-SHA256: 4261b5dc6df819a357eeaaa655556ff2a144619c33c98c2693d7f3c661d06f1a
-Section: Localization
-Description: 安裝前請先安裝 CallBar X
-Author: Mrmad <mrmadtw@gmail.com.tw> ,zyi840449
-Depiction: https://mrmadtw.github.io/repo/depiction/callbarxcht/index.html
-Name: CallBar X繁體中文化
-
 Package: com.mrmadtw.callblockercht
 Version: 1.0
 Architecture: iphoneos-arm
@@ -327,6 +311,22 @@ Size: 2206
 MD5sum: 9a77a94dc9ca218e9669f20051542395
 SHA1: e597e07a7313e52f1aeedadc0fa52ec43b9dba75
 SHA256: b1f4093018474262daf450a729b29847d8dc680f47ada015959a54ee0272aca3
+Section: Localization
+Description: 修補 DetailedPowerUsage 中文化翻譯錯誤
+Author: zyi840449 <zyi840449@icloud.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/detailedpowerusagecht/index.html
+Name: DetailedPowerUsage 繁體中文化
+
+Package: com.mrmadtw.detailedpowerusagecht
+Version: 1.0.2-1c
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>= 11.0)
+Filename: ./deb/com.mrmadtw.detailedpowerusagecht.1.0.2-1c_iphoneos-arm.deb
+Size: 2376
+MD5sum: 0be50c2dacc8fc970b95d811c9fe8a43
+SHA1: 8307d6e4cf2e44bb1cbad5d3dfbb6c2f07ebd6c1
+SHA256: 562d3a3e29f334f87549d914b12b0373ba60e19f42f52a82b760e650025121ac
 Section: Localization
 Description: 修補 DetailedPowerUsage 中文化翻譯錯誤
 Author: zyi840449 <zyi840449@icloud.com>
