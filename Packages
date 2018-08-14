@@ -109,6 +109,38 @@ Author: Kevin <keven5211@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/audiorecorder2cht/index.html
 Name: AudioRecorder 2繁體中文化
 
+Package: com.mrmadtw.bioprotectficht
+Version: 3.0-16
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.bioprotectficht_3.0-16_iphoneos-arm.deb
+Size: 6464
+MD5sum: 8769f31e182b056385bcaefa7fa5220d
+SHA1: f1c89a390bae91fc98e17c360ac2ae430eb7a2bb
+SHA256: f9a73ca3234102e1831abc1f51d291d5c8a9207f3f6a6e658e601c01ba958675
+Section: Localization
+Description: 適合臉部辨識機種使用
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/bioprotectficht/index.html
+Name: BioProtect X繁中化(FaceID)
+
+Package: com.mrmadtw.bioprotectticht
+Version: 3.0-16
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.bioprotectticht_3.0-16_iphoneos-arm.deb
+Size: 8290
+MD5sum: dffb83e733a037ecb0d42106f8cb37db
+SHA1: a6ec5459d405dd765d248a1b1bbb26d60fe5fdb1
+SHA256: ea66503f409f0ebe925e299eb7895ad7a5addd1efc7aa83a10c4599e71fb78ea
+Section: Localization
+Description: 適合指紋辨識機種使用
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/bioprotectticht/index.html
+Name: BioProtect 繁中化(TouchID)
+
 Package: com.mrmadtw.cacheclearer
 Version: 0.1a
 Architecture: iphoneos-arm
@@ -562,6 +594,21 @@ Description: FortniteStealth bypasses Fortnite's jailbreak detection.
 Author: foogauzie <foogauzie@protonmail.ch>
 Depiction: https://mrmadtw.github.io/repo/depiction/fortnitestealth/index.html
 Name: FortniteStealth2 (下載殼)
+
+Package: com.mrmadtw.icontoolcht
+Version: 1.9-7
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.icontoolcht_1.9-7_iphoneos-arm.deb
+Size: 2756
+MD5sum: 4aff2f7483c32a5f9bb26ac94b889db6
+SHA1: 6d9c26f8521bbca5f6da08400389cdfa32d2bd46
+SHA256: 91be4f19ba4cb6f1f8c27b550a5a3d5d1e3e586136432b18d9ac92725fb1a249
+Section: Localization
+Description: 解決 Icon Tools 繁體中文問題
+Author: Kevin <keven5211@gmail.com>
+Name: Icon Tools 繁體中文化
 
 Package: com.mrmadtw.intelix
 Version: 1.1.4b
