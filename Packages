@@ -93,6 +93,22 @@ Author: zackh105
 Depiction: https://mrmadtw.github.io/repo/depiction/NotTodaySatan/index.html
 Name: NotTodaySatan
 
+Package: com.mrmadtw.appellancycht
+Version: 1.1-20
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.appellancycht.1.1-20_iphoneos-arm.deb
+Size: 3818
+MD5sum: 0485bc22a9f3e198d820c2144a28e778
+SHA1: 13ec0a531b302a3dfbcb78247021fbf291e4d42b
+SHA256: eece43c7d4215c3d76a463b630efb260a42fc0b4190fec24d213e46838556003
+Section: Localization
+Description: 讓非iPhoneX設備實現Face ID功能
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/appellancycht/index.html
+Name: Appellancy(iOS 11)繁體中文化
+
 Package: com.mrmadtw.audiorecorder2cht
 Version: 1.6-93
 Architecture: iphoneos-arm
