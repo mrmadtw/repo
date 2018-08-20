@@ -291,13 +291,13 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Filename: ./deb/com.mrmadtw.cartonweatchertheme_1.0.0_iphoneos-arm.deb
-Size: 1133184
-MD5sum: 3287dc3fae7907a8615eb8a80b6543c9
-SHA1: 1b6a725c265bab99242586d919bd225fd8e5c5e5
-SHA256: f0b655f9c7e2cf1c1e0aa5662ed5645fd4eaa98e795ce27d879aa1a5f9e7f583
+Size: 1133186
+MD5sum: 96d351738d1f588531f9eae5d4678813
+SHA1: 36b81d107a406382c017c40ba2301595ca732070
+SHA256: efb35a34cd141fbabbcefc2981d1ffc6d63bad88782d787e2df17789779a6dc1
 Section: Themes
 Description: 讓天氣icon圖變得更好看，carton版立體風格
-Author: Ryan
+Author: Ryanwuson
 Depiction: https://mrmadtw.github.io/repo/depiction/cartonweatchertheme/index.html
 Name: Carton Weather Theme
 
@@ -633,13 +633,13 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: mobilesubstrate, com.anemonetheming.anemone
 Filename: ./deb/com.mrmadtw.flatendweatchertheme_1.0.0_iphoneos-arm.deb
-Size: 893380
-MD5sum: 6ad7c29649ffa7834e34b11db3b9e9ec
-SHA1: 9758429ff79cc72e5668be337f97bde580c008d3
-SHA256: 184dd60f2db2dda0eff4d08a2a44cca7bcc41af5e743df66578282b26258186e
+Size: 893384
+MD5sum: d409187084d105dd3895378cd6ebca7e
+SHA1: 4abdb53c269d83cdcbeacc4299b774fbf6c62e55
+SHA256: e0b66c7a96b7c4add0d117be8858702f04e880d691b34278de1be4f9bce14aa4
 Section: Themes
 Description: 讓天氣icon圖變得更好看，flatend版本風格
-Author: Ryan
+Author: Ryanwuson
 Depiction: https://mrmadtw.github.io/repo/depiction/flatendweatchertheme/index.html
 Name: Flatend Weather Theme
 
