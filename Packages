@@ -195,10 +195,10 @@ Architecture: iphoneos-arm
 Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: firmware (>=11.0)
 Filename: ./deb/com.mrmadtw.bioprotectticht_3.0-16b_iphoneos-arm.deb
-Size: 6682
-MD5sum: 47f3e49b7770a5d541b4f4563023f205
-SHA1: d0d83eafb083e5549c3cc4aaab931c4b42a5528d
-SHA256: 07178055b6617695f6b3c9165a46ab759bbc7152385fa406f70b52eff1db4957
+Size: 6926
+MD5sum: 9392470f497d56882b0bed70b0c1c2cf
+SHA1: 85b031290feb26760c9b0fec0643310eb2733946
+SHA256: 29c15f83293f2a5d492c21291377e5b195898c3677316ee02245c614060ecc74
 Section: Localization
 Description: 適合指紋辨識機種使用
 Author: Kevin <keven5211@gmail.com>
