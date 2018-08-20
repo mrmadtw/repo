@@ -285,6 +285,22 @@ Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/callblockercht/index.html
 Name: CallBlocker 繁體中文化
 
+Package: com.mrmadtw.cartonweatchertheme
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Filename: ./deb/com.mrmadtw.cartonweatchertheme_1.0.0_iphoneos-arm.deb
+Size: 1133184
+MD5sum: 3287dc3fae7907a8615eb8a80b6543c9
+SHA1: 1b6a725c265bab99242586d919bd225fd8e5c5e5
+SHA256: f0b655f9c7e2cf1c1e0aa5662ed5645fd4eaa98e795ce27d879aa1a5f9e7f583
+Section: Themes
+Description: 讓天氣icon圖變得更好看，carton版立體風格
+Author: Ryan
+Depiction: https://mrmadtw.github.io/repo/depiction/cartonweatchertheme/index.html
+Name: Carton Weather Theme
+
 Package: com.mrmadtw.ccmusicartwork
 Version: 0.0.5k
 Architecture: iphoneos-arm
@@ -610,6 +626,22 @@ Description: 安裝前請先安裝好 FDots
 Author: Mrmad <mrmadtw@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/fdotscht/index.html
 Name: FDots 繁體中文化
+
+Package: com.mrmadtw.flatendweatchertheme
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate, com.anemonetheming.anemone
+Filename: ./deb/com.mrmadtw.flatendweatchertheme_1.0.0_iphoneos-arm.deb
+Size: 893380
+MD5sum: 6ad7c29649ffa7834e34b11db3b9e9ec
+SHA1: 9758429ff79cc72e5668be337f97bde580c008d3
+SHA256: 184dd60f2db2dda0eff4d08a2a44cca7bcc41af5e743df66578282b26258186e
+Section: Themes
+Description: 讓天氣icon圖變得更好看，flatend版本風格
+Author: Ryan
+Depiction: https://mrmadtw.github.io/repo/depiction/flatendweatchertheme/index.html
+Name: Flatend Weather Theme
 
 Package: com.mrmadtw.floatingdockxi
 Version: 0.0.1-10+debug
