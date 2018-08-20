@@ -189,6 +189,22 @@ Author: Kevin <keven5211@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/bioprotectticht/index.html
 Name: BioProtect 繁中化(TouchID)
 
+Package: com.mrmadtw.bioprotectticht
+Version: 3.0-16b
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.bioprotectticht_3.0-16b_iphoneos-arm.deb
+Size: 6682
+MD5sum: 47f3e49b7770a5d541b4f4563023f205
+SHA1: d0d83eafb083e5549c3cc4aaab931c4b42a5528d
+SHA256: 07178055b6617695f6b3c9165a46ab759bbc7152385fa406f70b52eff1db4957
+Section: Localization
+Description: 適合指紋辨識機種使用
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/bioprotectticht/index.html
+Name: BioProtect 繁中化(TouchID)
+
 Package: com.mrmadtw.cacheclearer
 Version: 0.1a
 Architecture: iphoneos-arm
