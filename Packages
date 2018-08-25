@@ -755,6 +755,22 @@ Author: LatchKey
 Depiction: https://mrmadtw.github.io/repo/depiction/latchkey/index.html
 Name: LatchKey
 
+Package: com.mrmadtw.libertas
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate
+Filename: ./deb/com.mrmadtw.libertas_1.0.0_iphoneos-arm.deb
+Size: 7880
+MD5sum: 1c82d00fec4729f5d64e628c8447c705
+SHA1: 0f124069459d856ecd332cca9d0eaa1a1efbae38
+SHA256: ccfa0b3c7c3e983f1992b3a981452dc685428442fb82c1f1dbf112ca37f1cb68
+Section: Tweaks
+Description: 閃避越獄偵測測試版本
+Author: Umang Raghuvanshi
+Depiction: https://mrmadtw.github.io/repo/depiction/libertas/index.html
+Name: Libertas
+
 Package: com.mrmadtw.linenodetect
 Version: 0.5.1
 Architecture: iphoneos-arm
