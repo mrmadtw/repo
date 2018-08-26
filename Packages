@@ -1170,6 +1170,22 @@ Author: Ominousness
 Depiction: https://mrmadtw.github.io/repo/depiction/stackxi/index.html
 Name: StackXI
 
+Package: com.mrmadtw.stackxi
+Version: 0.1.2
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./deb/com.mrmadtw.stackxi_0.1.2_iphoneos-arm.deb
+Size: 10048
+MD5sum: 4902dec225301f1d318c5f5380aa5875
+SHA1: 6914356c0fefe0e031c41ae6dc6316ff7d593c71
+SHA256: 4ed19fd36b89d36db8a89589a23973f912caf6ed12b7a915724283abc99ad7d2
+Section: Tweaks
+Description: Grouped notifications, iOS 12 style.
+Author: Ominousness
+Depiction: https://mrmadtw.github.io/repo/depiction/stackxi/index.html
+Name: StackXI
+
 Package: com.mrmadtw.swiper
 Version: 1.0
 Architecture: iphoneos-arm
