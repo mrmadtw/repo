@@ -1154,6 +1154,22 @@ Author: LaughingQuoll
 Depiction: https://mrmadtw.github.io/repo/depiction/semperon/index.html
 Name: Semperon
 
+Package: com.mrmadtw.stackxi
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Filename: ./deb/com.mrmadtw.stackxi_0.1.1_iphoneos-arm.deb
+Size: 9968
+MD5sum: 30061a39a301a106820c68d7c6192f22
+SHA1: ba7208dbd5736e407a365602b21905e89e264e6f
+SHA256: e885d4c7140a110cf6220e1cc02c175a63bbaa1113502093b8d5d2c169a91569
+Section: Tweaks
+Description: Grouped notifications, iOS 12 style.
+Author: Ominousness
+Depiction: https://mrmadtw.github.io/repo/depiction/stackxi/index.html
+Name: StackXI
+
 Package: com.mrmadtw.swiper
 Version: 1.0
 Architecture: iphoneos-arm
