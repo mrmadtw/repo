@@ -141,6 +141,22 @@ Author: Kevin <keven5211@gmail.com>
 Depiction: https://mrmadtw.github.io/repo/depiction/bazzicht/index.html
 Name: Bazzi 繁體中文化
 
+Package: com.mrmadtw.bettercciconscht
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.bettercciconscht_0.0.1_iphoneos-arm.deb
+Size: 1600
+MD5sum: 62ab2b76957d1c065731e402063b8833
+SHA1: 68b942bf28e470c631896c6ff94f239d60cdf1d2
+SHA256: 65fe3b4395409e9618ce54b8321c1df8d81521a2a54384e897b849128228b0f8
+Section: Localization
+Description: BetterCCIcons中文化包
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/betterccicons/index.html
+Name: BetterCCIcons繁體中文化
+
 Package: com.mrmadtw.bioprotectficht
 Version: 3.0-16
 Architecture: iphoneos-arm
@@ -364,6 +380,22 @@ Description: Process Viewer for iOS GUI (64-bit)
 Author: Domo
 Depiction: https://mrmadtw.github.io/repo/depiction/cocoatop64/index.html
 Name: CocoaTop
+
+Package: com.mrmadtw.colorflow4cht
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.colorflow4cht_1.0.1_iphoneos-arm.deb
+Size: 1754
+MD5sum: 0e7750619ea80561269b993315a7a55a
+SHA1: 94d692ea7350a23e590f01d57085e16b20dc0e85
+SHA256: c333c595267c87916fb3f4de2df64e24b60a9aca040eadd717a6290ac8d797d1
+Section: Localization
+Description: ColorFlow 4 (iOS 11)中文化包
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/colorflow4/index.html
+Name: ColorFlow 4 (iOS 11)繁體中文化
 
 Package: com.mrmadtw.conditionalwifi3
 Version: 1.0.0
@@ -819,6 +851,22 @@ Author: PoomSmart <poomst@hotmail.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=linethemegiftenablerDp
 Name: LINE Theme Gift Enabler
 
+Package: com.mrmadtw.linetoolscht
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.linetoolscht_2.4_iphoneos-arm.deb
+Size: 2304
+MD5sum: 47c87806a58f8a38a8c50bb7478ef33d
+SHA1: 9ac79b61aa558cf4db949d404464e768f00a2c3b
+SHA256: 123523c734706559407f3ee614d2eda4cd72a37b24481e81b5299e2b6637c05c
+Section: Localization
+Description: LINE工具箱中文化
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/linetools/index.html
+Name: Line Tools繁體中文化
+
 Package: com.mrmadtw.littlex
 Version: 1.3.4
 Architecture: iphoneos-arm
@@ -1202,6 +1250,38 @@ Author: Ominousness
 Depiction: https://mrmadtw.github.io/repo/depiction/stackxi/index.html
 Name: StackXI
 
+Package: com.mrmadtw.stackxicht
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.stackxicht_0.2.0_iphoneos-arm.deb
+Size: 1448
+MD5sum: 771a3d0f2d00ca39e1d31519dcc3e15d
+SHA1: 6f86498cea5c7f9b1f069118d537adf6992bed1b
+SHA256: fd2b5a0dfa584bbc616b4c67e1f74399430993bbdcdd394710b54d48bd34cf13
+Section: Localization
+Description: StackXI中文化包
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/stackxi/index.html
+Name: StackXI繁體中文化
+
+Package: com.mrmadtw.statusdndcht
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.statusdndcht_1.0_iphoneos-arm.deb
+Size: 1144
+MD5sum: 0c279fc3159ed7804a275cf40b749774
+SHA1: 02f8264d66ffbe55436b2f85bc3299b2b0327820
+SHA256: 988339d8697eaffd832ec6df4742faa24149021e21ad5b737b75dd7f70c0ca01
+Section: Localization
+Description: StatusDND中文化包
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/statusdnd/index.html
+Name: StatusDND繁體中文化
+
 Package: com.mrmadtw.swiper
 Version: 1.0
 Architecture: iphoneos-arm
@@ -1266,6 +1346,22 @@ Author: Janosch
 Depiction: https://mrmadtw.github.io/repo/depiction/tactful/index.html
 Name: Tactful
 
+Package: com.mrmadtw.taptaplscht
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.taptaplscht_1.3_iphoneos-arm.deb
+Size: 1528
+MD5sum: e300a179fc86ee5f4091cf8560688196
+SHA1: e5edf7da23882f84a7e4cb1003a28ad232e7000a
+SHA256: 7e6da0070c54b6d3e9b45d559aba2b2b69f53b1d75eefc708edb197a46702cbd
+Section: Localization
+Description: TapTapLS中文化包
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/taptapls/index.html
+Name: TapTapLS繁體中文化
+
 Package: com.mrmadtw.taptickeys
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
@@ -1297,6 +1393,22 @@ Description: Adds a stunning new look to your messages.
 Author: AppleBetas
 Depiction: https://mrmadtw.github.io/repo/depiction/translucentmessages/index.html
 Name: TranslucentMessages
+
+Package: com.mrmadtw.unpluggedcht
+Version: 1.0.2-2
+Architecture: iphoneos-arm
+Maintainer: Mrmad <mrmadtw@gmail.com>
+Depends: firmware (>=11.0)
+Filename: ./deb/com.mrmadtw.unpluggedcht_1.0.2-2_iphoneos-arm.deb
+Size: 2208
+MD5sum: 0d3c560958bb810a46edcf0bed2492a8
+SHA1: d739e1a231277e47e9d3db4572bdf03f8f3b09b0
+SHA256: aad6335f8b5cc406d8834bb157e4e41d44df851ff3e81744f88bcdcdfb4c3c0f
+Section: Localization
+Description: Unplugged中文化包
+Author: Kevin <keven5211@gmail.com>
+Depiction: https://mrmadtw.github.io/repo/depiction/unplugged/index.html
+Name: Unplugged繁體中文化
 
 Package: com.mrmadtw.wdlfix
 Version: 1.0.1
